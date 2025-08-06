@@ -1,10 +1,11 @@
+
 # Wiki of Dark Arts
 
-# HRT
+## HRT
 
 there is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in very niche things here.
 
-# Weight Cycling
+## Weight Cycling
 
 The process of repetitively gaining and subsequently losing weight.
 
@@ -17,29 +18,29 @@ Links:
  * [Mesityl - MTF Weight Cycling](https://mesityl.substack.com/p/mtf-weight-cycling){ .source-link }
     * A good introduction on the topic, covers many of the things below, has more sources cited, and also discusses some things to avoid.
 
-## Downcycle
+### Downcycle
 
 In the down cycle, the aim is to have a caloric deficit, and hopefully pull more fat from "undesired places" rather than from relatively desireable places.
 
-## Maintining a caloric deficit
+### Maintining a caloric deficit
 
 Depending on the person, it may be difficult to keep a caloric deficit. There are some things that can help with this:
 
-## Caloric Deficit through Diets
+### Caloric Deficit through Diets
 
 - different diets seem to work for different people. todo: add more detail
 
-## Caloric Defficit with assistance of supplements
+### Caloric Defficit with assistance of supplements
 
-### Water-soluble fibres
+#### Water-soluble fibres
 such as Psyllium Husk or Glucomannan are effective at filling up the stomach/digestive tract and promoting a feeling of fullness, reducing appetite and promoting weight loss. 
 
-### GLP-1 Agonists
+#### GLP-1 Agonists
 There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, dulaglutide, exenatide, and tirzepatide. These promote weight loss through increasing insulin release, decreasing insulin resistance and decreasing excessive glucagon release. Their biggest downsides include very high price and the only viable RoA being injection.
 
-## Burning the right fat
+### Down cyle - Burning the right fat
 
-### Aminophylline
+#### Aminophylline
 
 [Link to Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9978326/){ .source-link }
 
@@ -49,43 +50,42 @@ In particular, one study on 25 men/women, when on a 1200kcal diet, achieved a re
 
 However, there is almost no discussion of this online. 
 
-### Transdermal Caffeine
+#### Transdermal Caffeine
 
 Transdermal caffein
 
 
-### Waist-training
+#### Waist-training
 As another option, if looking particularly to improve WHR or get a more hour-glass figure, could be waist training. This can often reduce appetite while worn. If done correctly this is usually quite safe, thought this does often cause the floating ribs 8-12 to shift inwards, and may cause some organs to move around.
 
-### Dangerous Darth Method
+#### Dangerous Darth Method
 This is a subtype of "waist training".
 
 This method, labelled dangerous, by darth, involves following practices that are actively reccomended against in the FtM community when binding. may cause pain, costochondritis, cracked or fractured ribs, reduced lung capacity, lung or kidney damage from floating ribs etc.
 
 [Darth Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
 
-### Selective Muscle training
+#### Selective Muscle training
 Strength training of specific muscles (e.g. the abdominals) prior to endurance training (e.g. a long cardio session) might be able to selectively burn fat in the corresponding area – this could be useful when trying to achieve a lower WHR.
 
 
-### Acetyl-l-carnitine (ALCAR)
+#### Acetyl-l-carnitine (ALCAR)
 
 is an orally bioavailable form of carnitine which is involved in the carnitine shuttle and is vital to fat metabolism. Supplementation has been shown to improve rates of fat metabolism and weight loss.
 
-### Other things NOT worth considering:
+#### Other things NOT worth considering:
 
 
-## The upcycle
+### The Upcycle - Growing the right fat
 
-In a way opposite to downcycling, weight gain is achieved when your calorific intake is higher than your total daily energy expenditure (TDEE). This does not mean no exercise or junk food as both of these would have an adverse health effect. In my personal experience upcycling can be even more mentally straining than downcycling – the feeling of guilt from purposefully eating large quantities of food or dysphoria felt from weight gain/tummy bloat is indeed unpleasant. The most important thing to remember is that these are all temporary and will help you achieve an ultimately better body in the long term!
+Gaining weight, with the hope that it grows in the "right places"
 
-
-### Weight gain supplements
+#### Weight gain supplements
 
 Just like with downcycling, there are a range of supplements that could be used to aid your upcycle…
 
 
-### Pioglitazone
+#### Pioglitazone
 "pio" is an anti-diabetic medication that activates PPAR-gamma systemically, reducing insulin resistance, gluconeogenesis and overall blood sugar. High insulin resistance in transgender females is associated with android fat distribution/higher WHR. It has been shown to lower visceral fat and WHR even in patients who’s overall BMI remained the same.
 
 It seems to protect subcutaneous fat in a way similar to estrogen. There has even been one documented case of pioglitazone use to achieve female fat distribution in a transgender patient in the medical literature. The drug would probably be beneficial regardless of whether you are cycling or not.
@@ -97,7 +97,7 @@ It has been associated with some risks to kidneys, but for short-term use it sho
 Typically people take it orally, but there are some reports of taking it topically:
 * [Topical Pio + AH38](https://old.reddit.com/r/DIYCosmeticProcedures/comments/1g4v3wp/topical_pioglitazone_ah38_for_lost_volume/){.source-link}
 
-## Acetyl-Hexapeptide-38 (Adifyline®)
+#### Acetyl-Hexapeptide-38 (Adifyline®)
 Adifyline®, topically applied increases PGC-1α expression, stimulating adipogenesis and lipid accumulation as a consequence67 (in a way opposite to hexapeptide-39). Again, the local effect of the drug could be leveraged to selectively increase fat in certain areas and thus improve WHR/fat distribution.
 
 In general, reports are pretty hit-or-miss, unclear if due to application method differences or genetic differences or both. There is like, one study on it:
@@ -115,7 +115,7 @@ Typical place to buy is on LotionCrafters:
 
 * [lotioncrafters](https://lotioncrafter.com/collections/active-ingredients/products/adifyline)
 
-### Acetyl-Hexapeptide-39 (Silusyne®)
+#### Acetyl-Hexapeptide-39 (Silusyne®)
 
 topically applied decreases PGC-1α expression, diminishing adipogenesis and lipid accumulation as a consequence. It could potentially be used topically to selectively reduce fat accumulation in certain areas and thus improve WHR/fat distribution.
 
@@ -124,7 +124,7 @@ However, there is, in general, very little literature on this.
 The [Mesityl - MTF Weight Cycling](https://mesityl.substack.com/p/mtf-weight-cycling){ .source-link } post has some discussion on this, and implies that it would work for the down cycle, though it could also make sense for the up cycle to inhibit growth in certain areas.
 
 
-### Volufiline
+#### Volufiline
 
 Volufiline is a patented cosmetic preparation containing Sarsapogenin which has been reported to stimulate adipocytic differentiation and adipogenesis by activation of PPAR-gamma. Similarly to the hexapeptide-38, it can be applied topically and perhaps even used synergistically.
 
@@ -133,18 +133,24 @@ Volufiline is a patented cosmetic preparation containing Sarsapogenin which has 
 Some recommend buying sarsapogenin directly:
  * [Reddit post on buying sarasapogenin](https://old.reddit.com/r/estrogel/comments/1bodb0k/dont_waste_money_on_volufiline_get_the_raw/){.source-link}
 
-### CJC-1295
+#### Leucine and Argenine 
+Leucine and Argenine have been shown to be particularly effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. 
+
+
+### Other chemicals
+
+#### CJC-1295
 
 CJC-1295 DAC, also known as DAC:GRF, is a synthetic peptide analogue of growth hormone-releasing hormone and a growth hormone secretagogue. It is a modified form of GHRH with improved pharmacokinetics, especially in regard to half-life.
 
 - [article about it](https://allaboutpeptides.com/cjc-1295-peptide/){.source-link}
 - [post about it on Reddit](https://old.reddit.com/r/DrWillPowers/comments/uh22mo/cjc1295_wdac_effect_on_breast_growth_and_surgery/){.source-link}
 
-### ipamorelin
+#### ipamorelin
 
 Ipamorelin is a peptide selective agonist of the ghrelin/growth hormone secretagogue receptor and a growth hormone secretagogue. It is a pentapeptide with the amino acid sequence Aib-His-D-2-Nal-D-Phe-Lys-NH₂ that was derived from GHRP-1. Ipamorelin significantly increases plasma growth hormone levels in both animals and humans. In addition, ipamorelin stimulates body weight gain in animals
 
-### tesmorelin
+#### tesmorelin
 
 Tesamorelin is a synthetic hormone used to reduce excess abdominal fat in adults with HIV-associated lipodystrophy. It is administered via subcutaneous injection and requires a prescription from a doctor.
 
@@ -152,14 +158,14 @@ I have seen one report of someone injecting 6/3/3mg mix of tesmorelin/cjc1295/ip
 
 > The cjc1295, I inject into belly fat, a 6/3/3mg mix of tesmorelin/cjc1295/ipamorelin vial. A few minutes after the injection, I can feel a headrush, and any soreness recovery from exercise appears to happen within hours, however there may be soreness in the breasts from tissues expanding.
 
-### igf-1 DES
+#### igf-1 DES
 
 Des(1-3)IGF-1 is a truncated form of insulin-like growth factor 1 (IGF-1) that has enhanced potency compared to IGF-1 due to its reduced binding to insulin-like growth factor-binding proteins. It is used in research and has potential therapeutic applications, particularly in growth-related conditions
 
 > I inject the igf-1 DES in the right breast area as the lymphatic system drains into the left side if I understand it correctly. The DES modification of igf-1 is very potent and activates all the growth receptors, including insulin receptors. The half life isn't very long, but the effect is noticable. About 0.05mL at a time, twice a day, from a 2mL of bacteriostatic water in a 1mg igf-1 DES vial.
 
 
-### kisspeptin 
+#### kisspeptin 
 
 Kisspeptin stimulates production of GnRH, FSH and LH and is much cheaper than (prescription-only) injectable FSH (follitropin). Can lead to additional breast growth.
 
@@ -179,50 +185,45 @@ Example dosage:
 Link to article about it:
 
 
-# Leucine and Argenine 
-Leucine and Argenine have been shown to be particularly effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. 
+### Things to Avoid
 
-
-
-## Things to Avoid
-
-### Alcohol Consumption
+#### Alcohol Consumption
 
 Moderate alcohol consumption increases abdominal fat, worsening fat distribution, and increases plasma androgens in cisgender females. Therefore it is highly discouraged.
 
 
-# Face
+## Face
 
-### Suncream
+#### Suncream
 
 Most obvious, shuldn't even need to say it, but do apply suncream to face every day.
 
-### Retinoids
+#### Retinoids
 
 Retinol (weak) and Tretinoin (strong)
 
-### Red light therapy
+#### Red light therapy
 
 Some early results says it helps.
 
-### Other things
+#### Other things
 
 Hylauranic acids, Niacinamide, Vitamin C, Glycolic Acids, etc... probably help and combine to have a good effect, but not as huge an effect.
 
-### Volume
+#### Volume
 
 apart from HRT, look at Adyfiline, Volufiline, and such. See above.
 
 
-# Hair
+## Hair
 
-## General care
+### General care
 
-### Fringe
+#### Fringe
 
 A common strategy in the MtF trans community to "improve shaping of the face" is to get a fringe. 
 
-### Better hair care and styling
+#### Better hair care and styling
 
 Looking after your hair in the right way can make it look a lot better. I am a non-expert on this, but things that help me:
 
@@ -234,33 +235,33 @@ Mistakes I have made:
 
 Other people will have different tips, so please add if you have some.
 
-## Prevent loss / regain growth
+### Prevent loss / regain growth
 
-### Finasteride / Dutasteride
+#### Finasteride / Dutasteride
 
 Decreases DHT levels to prevent hair loss (NOT an anti-androgen) and is associated with mental health effects. See other websites for this, these are common.
 
-### Minoxidil
+#### Minoxidil
 
 Promotes hair growth. See other website for this, also quite common. (or someone else please update this)
 
-### Estrogen (without feminization)
+#### Estrogen (without feminization)
 > try to wash your face 5 minutes after applying [5 mg/ml estriol serum]: this will only allow the shunt pathway (ie through hair follicules) maximizing the effect on follicules and therefore the pores, without allowing normal transdermal absorption
 > this method is used by men using E2 to regrow hair without systemic side effects (like boobs) and is supported by papers I read (search the sub for the shunt pathway)
 
 I haven't looked much at this. See [comment in this unrelated reddit post](https://old.reddit.com/r/estrogel/comments/1bodb0k/dont_waste_money_on_volufiline_get_the_raw/){.source-link}
 
-### Hair Transplant
+#### Hair Transplant
 
 Todo: add more info here.
 
-# Breast Growth
+## Breast Growth
 
-### Adifyline
+#### Adifyline
 
 See section above
 
-### Progesterone
+#### Progesterone
 
 > 1. Injectable progesterone is short-acting, must be injected daily.
 > Oral progesterone is ineffective because most of it is converted to allopregnanolone which common blood tests confuse with progesterone.
@@ -284,8 +285,8 @@ See section above
 > Or never take progestogens. In cases of complete androgen insensitivity (CAIS),
 > XY women develop rather spectacularly feminine secondary sexual characteristics though nothing in their bodies makes progesterone.
 
-### Other
+#### Other
 
-# Contributing
+## Contributing
 
 To contibute, make an issue on git
