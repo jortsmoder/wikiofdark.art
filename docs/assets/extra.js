@@ -431,20 +431,20 @@ function createSourcePaneHeader() {
   const links = document.createElement('div');
   links.className = 'source-pane-links';
   
-  // Original button
-  const originalBtn = document.createElement('a');
-  originalBtn.className = 'source-control-btn source-control-original';
-  originalBtn.target = '_blank';
-  originalBtn.innerHTML = '<span class="icon">↗</span>original';
-  
   // Archive button  
   const archiveBtn = document.createElement('a');
   archiveBtn.className = 'source-control-btn source-control-archive';
   archiveBtn.target = '_blank';
-  archiveBtn.innerHTML = '<span class="icon">↗</span>archive';
+  archiveBtn.innerHTML = '<span class="icon">↗</span>Open this archive copy';
+ 
+  // Original button
+  const originalBtn = document.createElement('a');
+  originalBtn.className = 'source-control-btn source-control-original';
+  originalBtn.target = '_blank';
+  originalBtn.innerHTML = '<span class="icon">↗</span>View original';
   
-  links.appendChild(originalBtn);
   links.appendChild(archiveBtn);
+  links.appendChild(originalBtn);
   
   // Right side - close button only
   const controls = document.createElement('div');
