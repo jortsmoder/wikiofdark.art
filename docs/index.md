@@ -257,9 +257,20 @@ Todo: add more info here.
 
 ## Breast Growth
 
-#### Adifyline
+#### Adifyline and Volufiline
 
-See section above
+See sections above
+
+#### Stop and Go method
+
+Some people have considered stopping estrogen temporarily, then restarting is, as a method to try to "reduce estrogen sensitivity".
+
+This person tried it and it seemed to work for them: 
+
+* [Original post on stop and go method](https://old.reddit.com/r/estrogel/comments/gqsh2g/a_practical_use_of_estrogel_as_a_topical_to/){.source-link}
+
+* [Follow up post claiming it now endorsed by Dr. Powers](https://old.reddit.com/r/estrogel/comments/jjvwqr/looks_like_the_stopandgo_is_also_endorsed_read/){.source-link}
+
 
 #### Progesterone
 
