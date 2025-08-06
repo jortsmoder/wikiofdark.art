@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div id="wiki-multipane">
+    <div id="wiki-main-pane" class="megapage-grid">
+      {{ super() }}                 {# Material’s normal two-column layout #}
+    </div>
+    <aside id="wiki-source-pane">
+      <iframe id="source-frame" title="Source preview"></iframe>
+    </aside>
+  </div>
+{% endblock %}
+

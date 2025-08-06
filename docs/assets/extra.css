@@ -1,0 +1,420 @@
+.meganote { font-style: italic; }      /* example utility class */
+
+#wiki-multipane {
+  display: grid;
+  grid-template-columns: minmax(25rem, 1fr) minmax(20rem, 1fr);   /* main (min 600px) | source (400px) */
+  grid-template-rows: 1fr;
+  gap: 1rem;
+}
+
+.megapage-grid {
+  /* Remove grid properties - let Material handle its normal layout */
+  display: block;
+}
+
+/* Source pane positioning - fixed relative to viewport but below header */
+#wiki-source-pane {
+  border-left: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem 0 0 0.5rem;
+  position: fixed;
+  top: 2.5rem;  /* Below Material's header */
+  right: 0rem;
+  width: calc(40% - 1.5rem);  /* Responsive width minus gap */
+  min-width: 20rem;
+  height: calc(100vh - 2.5rem);  /* Full height minus header and small margin */
+  padding: 0;
+  background: var(--md-default-bg-color);
+  z-index: 100;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Source pane header with controls */
+.source-pane-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+  flex-shrink: 0;
+  position: absolute;
+  width: 100%;
+  min-width: 20rem;
+  z-index: 1000;
+  opacity: 1.0;
+}
+
+.source-pane-links {
+  display: flex;
+  gap: 0;
+  align-items: center;
+}
+
+.source-pane-controls {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+.source-control-btn {
+  background: var(--md-default-accent-fg-color);
+  color: var(--md-default-fg-color);
+  /* border: 1px solid var(--md-default-fg-color--light); */
+  font-size: 12px;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: background-color 0.2s;
+}
+
+.source-control-btn:hover {
+  background: var(--md-default-fg-color--lightest);
+  text-decoration: none;
+}
+
+.source-control-btn .icon {
+  font-size: 10px;
+}
+
+#source-frame {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+  border: none;
+  border-radius: 0;
+}
+
+/* Adjust main content margin when source pane is visible */
+#wiki-multipane:has(#wiki-source-pane[style*="block"]) #wiki-main-pane {
+  margin-right: 1rem;
+}
+
+/* Close button styling */
+.close-btn {
+  background: var(--md-accent-fg-color);
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  line-height: 1;
+  font-weight: bold;
+}
+
+.close-btn:hover {
+  opacity: 0.8;
+}
+
+/* Hide the source pane when there's not enough space for both main (600px) + source (400px) + gap */
+@media (max-width: 64rem) {  /* 600px + 400px + gap ≈ 1024px */
+  #wiki-multipane       { grid-template-columns: 1fr; }
+  #wiki-source-pane     { display: none !important; }
+  #wiki-main-pane       { margin-right: 0 !important; }
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  #wiki-source-pane {
+    border-left-color: var(--md-default-fg-color--lightest);
+  }
+}
+
+.md-footer {
+  display: none;
+}ove source parameter from hash
+  const currentHash = window.location.hash;
+  const newHash = currentHash
+    .replace(/[#&]source=[^&]*/, '')
+    .replace(/^&/, '#')
+    .replace(/&$/, '');
+  
+  if (newHash !== currentHash) {
+    history.pushState(null, '', newHash || '#');
+  }
+}
+
+async function discoverAndPreloadSources() {
+  console.log('🔍 Discovering available source pages...');
+  
+  // Find all source-link elements on the page
+  const sourceLinks = document.querySelectorAll('a.source-link');
+  const discoveryPromises = [];
+
+  for (const link of sourceLinks) {
+    const originalUrl = link.href;
+    const localPath = `/sources/${await slug(originalUrl)}`;
+    
+    // Check if local version exists (do this once during preload)
+    discoveryPromises.push(
+      fetch(localPath, { method: 'HEAD' })
+        .then(response => {
+          if (response.ok) {
+            sourceCache.registerSource(originalUrl, localPath);
+            console.log(`📍 Registered: ${originalUrl} -> ${localPath}`);
+          }
+        })
+        .catch(() => {
+          // Local version doesn't exist, that's fine
+        })
+    );
+  }
+
+  await Promise.all(discoveryPromises);
+  console.log(`✅ Discovery complete. Found ${sourceCache.sourceRegistry.size} local sources.`);
+}
+
+async function preloadSource(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    
+    const content = await response.text();
+    sourceCache.set(url, content);
+    return content;
+  } catch (error) {
+    console.warn(`Failed to preload source: ${url}`, error);
+    return null;
+  }
+}
+
+async function preloadAllSources() {
+  if (sourceCache.preloadComplete) return;
+  
+  await discoverAndPreloadSources();
+  
+  // Preload a few of the most recently discovered sources
+  const localSources = Array.from(sourceCache.sourceRegistry.values()).slice(0, 10); // Limit to first 10
+  
+  if (localSources.length > 0) {
+    console.log(`📦 Preloading ${localSources.length} source pages...`);
+    const preloadPromises = localSources.map(async (localPath) => {
+      if (!sourceCache.has(localPath)) {
+        await preloadSource(localPath);
+      }
+    });
+    
+    await Promise.all(preloadPromises);
+    console.log(`🚀 Preloaded ${sourceCache.size()} source pages`);
+  }
+  
+  sourceCache.preloadComplete = true;
+}
+
+function createDataUrl(htmlContent) {
+  // Create a data URL for the HTML content
+  const blob = new Blob([htmlContent], { type: 'text/html' });
+  return URL.createObjectURL(blob);
+}
+
+function updateSourceControls() {
+  const originalBtn = document.querySelector('.source-control-original');
+  const archiveBtn = document.querySelector('.source-control-archive');
+  
+  if (!currentSourceUrl || !originalBtn || !archiveBtn) return;
+  
+  // Update original button
+  originalBtn.href = currentSourceUrl;
+  
+  // Update archive button
+  if (sourceCache.isAvailableLocally(currentSourceUrl)) {
+    const localPath = sourceCache.getLocalPath(currentSourceUrl);
+    archiveBtn.href = localPath;
+    archiveBtn.style.display = 'inline-flex';
+  } else {
+    archiveBtn.style.display = 'none';
+  }
+}
+
+async function showSourcePane(sourceUrl) {
+  const pane = document.getElementById('wiki-source-pane');
+  const frame = document.getElementById('source-frame');
+  
+  if (!hasSpaceForSourcePane()) {
+    window.open(sourceUrl, '_blank');
+    return;
+  }
+
+  // Update current source URL for header controls
+  currentSourceUrl = sourceUrl;
+
+  // Show pane first for immediate feedback
+  if (pane) pane.style.display = 'block';
+
+  // Update header controls
+  updateSourceControls();
+
+  // Determine target without any network requests
+  let target = sourceUrl;
+  if (sourceCache.isAvailableLocally(sourceUrl)) {
+    target = sourceCache.getLocalPath(sourceUrl);
+  }
+
+  // Check if we have cached content (instant load)
+  if (sourceCache.has(target)) {
+    const cachedContent = sourceCache.get(target);
+    const dataUrl = createDataUrl(cachedContent);
+    if (frame) frame.src = dataUrl;
+    console.log(`⚡ Instant load from cache: ${target}`);
+  } else {
+    // Only make network request if not cached yet
+    if (target.startsWith('/sources/')) {
+      console.log(`📥 Loading and caching: ${target}`);
+      const content = await preloadSource(target);
+      if (content && frame) {
+        const dataUrl = createDataUrl(content);
+        frame.src = dataUrl;
+      } else if (frame) {
+        frame.src = target; // Fallback
+      }
+    } else {
+      // External URL - load directly
+      if (frame) frame.src = target;
+    }
+  }
+  
+  // Update URL
+  setSourceUrlInHash(sourceUrl);
+}
+
+function hideSourcePane() {
+  const pane = document.getElementById('wiki-source-pane');
+  if (pane) {
+    pane.style.display = 'none';
+    currentSourceUrl = null;
+  }
+  removeSourceFromHash();
+}
+
+function createSourcePaneHeader() {
+  const header = document.createElement('div');
+  header.className = 'source-pane-header';
+  
+  const title = document.createElement('span');
+  title.textContent = 'Source';
+  title.style.fontWeight = 'bold';
+  title.style.fontSize = '14px';
+  
+  const controls = document.createElement('div');
+  controls.className = 'source-pane-controls';
+  
+  // Original button
+  const originalBtn = document.createElement('a');
+  originalBtn.className = 'source-control-btn source-control-original';
+  originalBtn.target = '_blank';
+  originalBtn.innerHTML = '<span class="icon">↗</span>original';
+  
+  // Archive button  
+  const archiveBtn = document.createElement('a');
+  archiveBtn.className = 'source-control-btn source-control-archive';
+  archiveBtn.target = '_blank';
+  archiveBtn.innerHTML = '<span class="icon">↗</span>archive';
+  
+  // Close button
+  const closeBtn = document.createElement('button');
+  closeBtn.className = 'close-btn';
+  closeBtn.innerHTML = '×';
+  closeBtn.addEventListener('click', hideSourcePane);
+  
+  controls.appendChild(originalBtn);
+  controls.appendChild(archiveBtn);
+  controls.appendChild(closeBtn);
+  
+  header.appendChild(title);
+  header.appendChild(controls);
+  
+  return header;
+}
+
+/* ---------- main ----------------------------------------------------- */
+
+document.addEventListener('DOMContentLoaded', async () => {
+
+  const pane  = document.getElementById('wiki-source-pane');   // wrapper <aside>
+  const frame = document.getElementById('source-frame');  // iframe inside it
+  if (pane) pane.style.display = 'none';                  // start hidden
+
+  // Add header with controls to source pane
+  if (pane && !pane.querySelector('.source-pane-header')) {
+    const header = createSourcePaneHeader();
+    pane.insertBefore(header, frame);
+  }
+
+  // Preload sources in the background
+  setTimeout(() => {
+    preloadAllSources().catch(console.error);
+  }, 1000); // Wait 1 second after page load
+
+  // Check URL hash on page load
+  const initialSourceUrl = getSourceUrlFromHash();
+  if (initialSourceUrl && hasSpaceForSourcePane()) {
+    showSourcePane(initialSourceUrl);
+  }
+
+  document.body.addEventListener('click', async ev => {
+    const link = ev.target.closest('a.source-link');
+    if (!link) return;
+
+    ev.preventDefault();
+    await showSourcePane(link.href);
+  });
+
+  /* Handle window resize - hide source pane if not enough space */
+  window.addEventListener('resize', () => {
+    if (pane && !hasSpaceForSourcePane()) {
+      hideSourcePane();
+    }
+  });
+
+  /* Handle browser back/forward buttons */
+  window.addEventListener('popstate', () => {
+    const sourceUrl = getSourceUrlFromHash();
+    if (sourceUrl && hasSpaceForSourcePane()) {
+      showSourcePane(sourceUrl);
+    } else {
+      hideSourcePane();
+    }
+  });
+
+  // Add cache management to window for debugging
+  if (typeof window !== 'undefined') {
+    window.sourceCache = sourceCache;
+    window.clearSourceCache = () => {
+      sourceCache.clear();
+      console.log('🗑️ Source cache cleared');
+    };
+    window.preloadAllSources = preloadAllSources;
+  }
+
+});
+```
+
+Key features of the new header:
+
+1. **Header Bar**: Added a clean header with title "Source" and controls on the right
+
+2. **Original Button**: `↗ original` - Opens the original URL in a new tab
+
+3. **Archive Button**: `↗ archive` - Opens the local archived version in a new tab (only shows if archive exists)
+
+4. **Close Button**: `×` - Closes the source pane (red accent color)
+
+5. **Dynamic Updates**: Buttons update their links when you switch between different sources
+
+6. **Responsive Design**: Header adapts to the pane width and theme colors
+
+7. **Flexbox Layout**: Source pane now uses flexbox with header at top and iframe filling remaining space
+
+The header will show:
+- `[↗] original [↗] archive ... [×]` when an archive exists locally
+- `[↗] original ... [×]` when only the original URL is available
+
+The styling matches Material's design system and works in both light and dark modes!

@@ -1,0 +1,32 @@
+site_name: Ring-Making Mega-Guide
+site_url:  https://docs.example.com
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - toc.integrate          # left rail = in-page TOC :contentReference[oaicite:0]{index=0}
+    - navigation.instant     # SPA-style speed
+    - navigation.expand
+
+
+markdown_extensions:
+  - footnotes
+  - attr_list            # keep this if you use {.source-link}
+  # - pymdownx.citations # ←- delete or comment out
+
+plugins:
+  - search
+  - bibtex:              # <— mkdocs-bibtex we just installed
+      bib_file: references.bib   # put your .bib in the repo root
+      # csl_file: chicago-fullnote-bibliography.csl  # optional style
+
+
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/extra.js
+
+extra:
+  social: false              # optional – removes top-right social icons
+
