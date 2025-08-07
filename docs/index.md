@@ -210,30 +210,23 @@ Some early results says it helps.
 
 Hylauranic acids, Niacinamide, Vitamin C, Glycolic Acids, etc... probably help and combine to have a good effect, but not as huge an effect.
 
-#### Volume
+#### Face Plumpness
 
-apart from HRT, look at Adyfiline, Volufiline, and such. See above.
+HRT helps. Otherwise, look at Adyfiline, Volufiline, and such. See above.
 
 
 ## Hair
 
 ### General care
 
+See reddit tbh I ain't bothered to write it all here.
+
+* [Reddit r/HaircareScience Wiki](https://www.reddit.com/r/HaircareScience/wiki/index/)
+
 #### Fringe
 
 A common strategy in the MtF trans community to "improve shaping of the face" is to get a fringe. 
 
-#### Better hair care and styling
-
-Looking after your hair in the right way can make it look a lot better. I am a non-expert on this, but things that help me:
-
-(note: I have moderately long thin fine wavy hair, type 2B). 
-
-Mistakes I have made:
-- Using conditioner that is too heavy for my fine hair
-- When drying my hair after a shower, brushing it and letting it dry flat. I find this makes the hair flat when it's dried. A good way to prevent flatness is by shaking your hair to dry if after brushing it.
-
-Other people will have different tips, so please add if you have some.
 
 ### Prevent loss / regain growth
 
@@ -297,6 +290,39 @@ This person tried it and it seemed to work for them:
 > XY women develop rather spectacularly feminine secondary sexual characteristics though nothing in their bodies makes progesterone.
 
 #### Other
+
+## Preserving Fertility pre-HRT
+
+### Sperm Cryopreservation
+
+#### Ensuring quality
+
+- Avoid heat at all costs. No to Sauna/Hottub. 
+- Better to do in winter or spring, to avoid heat.
+- Take zinc supplements
+- Take omega 3 supplements
+- Generally, require 2-4 days of abstinance before storage sessions.
+- You usually need to be tested for STIs. 
+
+#### Basics of Storage
+
+Depending on where you are from, it can be annoying to freeze and store gametes. Typically this is done by finding an IVF clinic that allows storing of sperm. It is possible to move sperm between clinics, but generally it is probably better to choose somewhere with good success rates. Transfer between countries can be difficult. You will generally need to pay an annual storage fee on the order of €200-400/year depending on the place.
+
+The success rates are usually measured as pregnancies in <35yo women, <40yo women, and >40yo women. In a decent place, rated for <35to women are usually around a ~50% chance. Each place likes to measure and report different things though. Also note that most people who do IVF do so because they have fertlity issues, so most likely your rate of success will be higher. If a clinic has "donor success rates" that is usually more representitive. These success rates can be improved with genetic screening methods like PGT-A, and some nombers include it and some don't, but is getting more common (though also usually costs extra).
+
+Main methods are In-Vitro Fertilization (IVF) (incl ICSI), where one does fertilisation in vitro, and In-Utero Insemination (IUI), more affordable but less reliable.
+
+Depending on your sperm quality, you will probably need to have multiple storage sessions. You can store anywhere between 1 and ~5 straws in a single session, each typically good for 1 round of IFV, but may need multiple straws for an IUI session. (IUI is typically far less expensive). Typical is 2-3 sessions, but more can also happen.
+
+
+### Where to Store
+
+In places like UK and Ireland, the process is kinda slow. As of 2025, most places in ireland no longer offer male gamete cryopreservation without a doctor's note due to storage shortage. UK is hit-or-miss with clinics, and in my experience you will be waiting months to do it.
+
+There are some good IVF clinics in Spain which are worth considering, such as IVI or Instituto Bernabeu, which are much faster, with the drawback of needing to spend a week or two in Spain.
+
+
+
 
 ## Contributing
 

@@ -6,8 +6,9 @@ theme:
   custom_dir: overrides
   features:
     - toc.integrate          # left rail = in-page TOC :contentReference[oaicite:0]{index=0}
+    - toc.follow
     - navigation.instant     # SPA-style speed
-    - navigation.expand
+    # - navigation.expand
 
 
 markdown_extensions:
