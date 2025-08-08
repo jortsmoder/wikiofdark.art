@@ -12,9 +12,14 @@ theme:
 
 
 markdown_extensions:
+  - md_in_html
   - footnotes
   - attr_list            # keep this if you use {.source-link}
   # - pymdownx.citations # ←- delete or comment out
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
 
 plugins:
   - search

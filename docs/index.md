@@ -44,11 +44,35 @@ There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, d
 
 [Link to Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9978326/){ .source-link }
 
+Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in a 2:1 ratio.
+
 It is a little-studied drug that inhibits dual phosphodiesterase (PDE) which causes cAMP to surge.
 
 In particular, one study on 25 men/women, when on a 1200kcal diet, achieved a reduction in waist circumference of 11 ± 1.0 cm when using 0.5% aminophylline, compared to a reduction of 5.0 ± 0.6 cm in the control group.
 
-However, there is almost no discussion of this online. 
+However, there is almost no discussion of this online. Eg:
+
+- [u/brasscup used aminophylline in the 90s for cellulite](https://old.reddit.com/r/SkincareAddiction/comments/xixd9o/diy_anybody_have_a_diy_recipe_for_cellulite_cream/){.source-link}, and [another comment of them discussing it](https://old.reddit.com/r/AskWomenOver60/comments/1l8wibb/help/mx8iitq){.source-link}
+
+
+??? note "Sourcing, according to ChatGPT"
+
+    You can order **raw aminophylline powder** from laboratory-chemical vendors, while medical distributors will only supply it under a prescription or professional license.  
+
+    Research / lab‐grade suppliers (no prescription, “for research use only”):  
+
+    - **Thermo Fisher Scientific** – Aminophylline, anhydrous, 98%, 25 g bottle, catalog J60705; price ≈ US $40.70. [link](https://www.thermofisher.com/order/catalog/product/J60705.14)
+    - **Glentham Life Sciences** – In-stock powder, 25 g for £/US $31.20 (larger sizes available). [link](https://www.glentham.com/en/products/product/GE6366/)
+    - **TargetMol** – 1 g vial, US $29, listed as in stock. [link](https://www.targetmol.com/compound/aminophylline)
+    - **MedChemExpress** – Research-reagent aminophylline sold in multiple pack sizes. [link](https://www.medchemexpress.com/Aminophylline.html)
+    - **CP Lab Safety (TCI)** – 100 g bottle available through scientific-supply channels. [link](https://www.calpaclab.com/aminophylline-100g-each/spc-tci-a2805-100g)
+
+    Bulk API wholesalers (kilogram scale, GMP claims; import permits usually required):  
+
+    - 17 Chinese manufacturers advertise aminophylline raw material on Made-in-China’s marketplace. [link](https://www.made-in-china.com/new-products/aminophylline_2.html)
+
+    Regulatory note: Aminophylline is an FDA-listed prescription drug, so supplies intended for human or animal treatment normally require a prescriber’s order or a pharmacy/DEA license; research-grade material from chemical suppliers is labeled *not for human or veterinary use* and should be handled in accordance with local hazardous-chemical regulations. [link](https://www.boundtree.com/pharmaceuticals/rx-pharmaceuticals/aminophylline-25mg-ml-20ml-vial/p/5922-01)
+
 
 #### Transdermal Caffeine
 
@@ -321,6 +345,107 @@ In places like UK and Ireland, the process is kinda slow. As of 2025, most place
 
 There are some good IVF clinics in Spain which are worth considering, such as IVI or Instituto Bernabeu, which are much faster, with the drawback of needing to spend a week or two in Spain.
 
+
+## Preserving fertility with some HRT.
+
+Some resp
+
+### Methyl-estradiol-propanoate ( MEP )
+
+* **Skin / fat:** Boosts facial collagen, elastin and hydration in ≈12 weeks; no evidence it shifts deep sub-Q fat.
+* **Hair:** Neutral.
+* **Fertility:** Blood E2, LH and FSH stayed unchanged for 20 weeks in Emepelle trials. ([PubMed][1])
+
+---
+
+### 17-α-Estradiol 0.025 % lotion
+
+* **Skin / fat:** Slight sebum reduction; no body-fat redistribution.
+* **Hair:** ↑ hair count & shaft diameter after 4-8 months.
+* **Fertility:** Serum E2 ≤ 30 pmol L⁻¹; T & LH unchanged over 8 months. ([PMC][2])
+
+---
+
+### Equol / Genistein 0.5–1 % cream
+
+* **Skin / fat:** Modest ER-β activation improves texture; fat unchanged.
+* **Hair:** In-vitro DHT scavenging; early human data only.
+* **Fertility:** Endocrine-silent at topical doses so far.
+
+---
+
+### Clascoterone 7.5 % solution (*Breezula*)
+
+* **Skin / fat:** Cuts sebaceous activity; useful for hormonal acne.
+* **Hair:** \~15 hairs cm² gain at 6 mo in Phase II male AGA trials.
+* **Fertility:** Plasma drug < 5 ng mL⁻¹; no DHT, T or LH change detected. ([PMC][3], [jaad.org][4])
+
+---
+
+### Topical Finasteride 0.25 % spray
+
+* **Skin / fat:** Minor sebum drop.
+* **Hair:** Density gains comparable to oral; serum DHT ↓ 25–30 %.
+* **Fertility:** T and semen normal over 24 wks; long-term data pending. ([PMC][5], [PubMed][6])
+
+---
+
+### Spironolactone 5 % lotion
+
+* **Skin / fat:** Potent oil control.
+* **Hair:** Small studies show thicker hair with twice-daily use.
+* **Fertility:** Plasma drug sub-ng; no measurable sex-hormone shift to date. ([PMC][7], [PubMed][8])
+
+---
+
+### GHK-Cu peptide 0.05–0.1 % serum
+
+* **Skin / fat:** Collagen & elastin up-regulation; no fat effect.
+* **Hair:** Thickens shafts, signals follicle repair.
+* **Fertility:** Hormone-neutral. ([PMC][9])
+
+---
+
+### Hyaluronic-acid cheek fillers
+
+* **Skin / fat:** Instantly add mid-face volume, mimicking feminine fat pads; MRI shows persistence 2–15 yrs.
+* **Hair:** None.
+* **Fertility:** None. ([PubMed][10], [PMC][11])
+
+---
+
+### Autologous facial fat grafting
+
+* **Skin / fat:** Permanent or long-lasting cheek & jaw softening with your own tissue.
+* **Hair:** None.
+* **Fertility:** None. ([PMC][12])
+
+---
+
+### Systemic estradiol patch / tablet (25–100 µg day⁻¹)
+
+* **Skin / fat:** Only proven non-surgical route to true gluteo-femoral (“hour-glass”) fat shift.
+* **Hair:** Lowers scalp androgen load, supporting growth.
+* **Fertility:** Predictable LH/FSH suppression and spermatogenesis risk—bank sperm or use hCG co-therapy if chosen. ([PMC][13])
+
+---
+
+**Key take-away:**
+Topical soft-estrogens, peptide serums and modern anti-androgen lotions can soften skin and guard hair with minimal testosterone loss—but **distinctly feminine body-fat curves still require either systemic estradiol or physical volume (fillers / fat grafts), both of which spare male fertility far better than full-dose systemic estrogen.**
+
+[1]: https://pubmed.ncbi.nlm.nih.gov/31860210/?utm_source=chatgpt.com "Evaluation of Efficacy of a Skin Care Regimen Containing Methyl ..."
+[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3412238/?utm_source=chatgpt.com "The Efficacy and Safety of 17α-Estradiol (Ell-Cranell® ..."
+[3]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10173235/?utm_source=chatgpt.com "Androgenetic Alopecia: Therapy Update - PMC"
+[4]: https://www.jaad.org/article/S0190-9622%2819%2931086-2/fulltext?utm_source=chatgpt.com "A summary of in vitro, phase I, and phase II studies ..."
+[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9297965/?utm_source=chatgpt.com "Efficacy and safety of topical finasteride spray solution for male ..."
+[6]: https://pubmed.ncbi.nlm.nih.gov/34634163/?utm_source=chatgpt.com "Efficacy and safety of topical finasteride spray solution for male ..."
+[7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10010138/?utm_source=chatgpt.com "The Efficacy and Safety of Oral and Topical Spironolactone in ..."
+[8]: https://pubmed.ncbi.nlm.nih.gov/36039391/?utm_source=chatgpt.com "Dermoscopic evaluation of the efficacy of combination of topical ..."
+[9]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6073405/?utm_source=chatgpt.com "Regenerative and Protective Actions of the GHK-Cu ..."
+[10]: https://pubmed.ncbi.nlm.nih.gov/39015357/?utm_source=chatgpt.com "Hyaluronic Acid Filler Longevity in the Mid-face: A Review ..."
+[11]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9007185/?utm_source=chatgpt.com "Long-term MRI Follow-up of Hyaluronic Acid Dermal Filler"
+[12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11249923/?utm_source=chatgpt.com "Improving the Retention of Low-Volume Autologous Fat ..."
+[13]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6795075/?utm_source=chatgpt.com "Determinants of body fat distribution in humans may ..."
 
 
 
