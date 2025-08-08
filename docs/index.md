@@ -268,6 +268,13 @@ Promotes hair growth. See other website for this, also quite common. (or someone
 
 I haven't looked much at this. See [comment in this unrelated reddit post](https://old.reddit.com/r/estrogel/comments/1bodb0k/dont_waste_money_on_volufiline_get_the_raw/){.source-link}
 
+### PP405
+
+PP405, a currently-under-research compound currently in clinical trials for hair growth.
+
+* [Article on PP405](https://www.dermatologytimes.com/view/pelage-s-pp405-demonstrates-efficacy-in-phase-2a-trial-for-androgenetic-alopecia){.source-link}
+
+
 #### Hair Transplant
 
 Todo: add more info here.
