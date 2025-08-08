@@ -89,6 +89,11 @@ This method, labelled dangerous, by darth, involves following practices that are
 
 [Darth Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
 
+> starting: 32" underbust
+> after a "few weeks": 29.5" immediately when removed, 30.5 after an hour
+> 3 weeks later: 29 inches underbust with the binder, 30.0 without
+> after 2 years on, 1 year off: 29.5" stable
+
 #### Selective Muscle training
 Strength training of specific muscles (e.g. the abdominals) prior to endurance training (e.g. a long cardio session) might be able to selectively burn fat in the corresponding area – this could be useful when trying to achieve a lower WHR.
 
@@ -262,7 +267,7 @@ Decreases DHT levels to prevent hair loss (NOT an anti-androgen) and is associat
 
 Promotes hair growth. See other website for this, also quite common. (or someone else please update this)
 
-#### Estrogen (without feminization)
+#### Topical Estrogen (without feminization)
 > try to wash your face 5 minutes after applying [5 mg/ml estriol serum]: this will only allow the shunt pathway (ie through hair follicules) maximizing the effect on follicules and therefore the pores, without allowing normal transdermal absorption
 > this method is used by men using E2 to regrow hair without systemic side effects (like boobs) and is supported by papers I read (search the sub for the shunt pathway)
 
@@ -298,27 +303,29 @@ This person tried it and it seemed to work for them:
 
 #### Progesterone
 
-> 1. Injectable progesterone is short-acting, must be injected daily.
-> Oral progesterone is ineffective because most of it is converted to allopregnanolone which common blood tests confuse with progesterone.
-> Neovagina absorbs meds not as well as a cis-woman's vagina.
-> Most progestins give various side effects.
-> Hydroxyprogesterone caproate is not bioidentical.
-> It's not converted in the body to progesterone (unlike estradiol valerate and estradiol enanthate).
-> 
-> 2. Progesterone decreases rate of synthesis of estrogen receptors.
-> Cis-women are supposed to benefit from that, but goals of MtF are opposite.
->
-> 3. Estradiol develops ducts in milk glands, progesterone develops alveoles.
-> Most of breast volume is ducts and connective tissue between them.
-> If an alveole formed (at the end of a duct), that duct will not grow in length anymore. > So, progesterone and Androcur can stunt breast growth.
->
-> 4. Progestogens increase risk of prolactinoma and meningioma (brain tumors).
-> Progestogens (especially cyproterone acetate), not estrogens (despite mistaken rumor among medical professionals).
->
-> I advise NOT to add progesterone for at least 3 years since starting estradiol injections at least 40 mg/month (not since the very beginning of HRT).
->
-> Or never take progestogens. In cases of complete androgen insensitivity (CAIS),
-> XY women develop rather spectacularly feminine secondary sexual characteristics though nothing in their bodies makes progesterone.
+??? note "Notes on Progesterone"
+
+    > 1. Injectable progesterone is short-acting, must be injected daily.
+    > Oral progesterone is ineffective because most of it is converted to allopregnanolone which common blood tests confuse with progesterone.
+    > Neovagina absorbs meds not as well as a cis-woman's vagina.
+    > Most progestins give various side effects.
+    > Hydroxyprogesterone caproate is not bioidentical.
+    > It's not converted in the body to progesterone (unlike estradiol valerate and estradiol enanthate).
+    > 
+    > 2. Progesterone decreases rate of synthesis of estrogen receptors.
+    > Cis-women are supposed to benefit from that, but goals of MtF are opposite.
+    >
+    > 3. Estradiol develops ducts in milk glands, progesterone develops alveoles.
+    > Most of breast volume is ducts and connective tissue between them.
+    > If an alveole formed (at the end of a duct), that duct will not grow in length anymore. > So, progesterone and Androcur can stunt breast growth.
+    >
+    > 4. Progestogens increase risk of prolactinoma and meningioma (brain tumors).
+    > Progestogens (especially cyproterone acetate), not estrogens (despite mistaken rumor among medical professionals).
+    >
+    > I advise NOT to add progesterone for at least 3 years since starting estradiol injections at least 40 mg/month (not since the very beginning of HRT).
+    >
+    > Or never take progestogens. In cases of complete androgen insensitivity (CAIS),
+    > XY women develop rather spectacularly feminine secondary sexual characteristics though nothing in their bodies makes progesterone.
 
 #### Other
 
