@@ -42,18 +42,22 @@ There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, d
 
 #### Aminophylline
 
-[Link to Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9978326/){ .source-link }
 
-Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in a 2:1 ratio.
+Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in a 2:1 ratio. It is a little-studied drug that inhibits dual phosphodiesterase (PDE) which causes cAMP to surge, and thus increase lipolysis.
 
-It is a little-studied drug that inhibits dual phosphodiesterase (PDE) which causes cAMP to surge.
+* [Link to Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9978326/){ .source-link }
 
-In particular, one study on 25 men/women, when on a 1200kcal diet, achieved a reduction in waist circumference of 11 ± 1.0 cm when using 0.5% aminophylline, compared to a reduction of 5.0 ± 0.6 cm in the control group.
+In particular, [one study](https://pubmed.ncbi.nlm.nih.gov/17391155/){.source-link} on 25 men/women, when on a 1200kcal diet, achieved a reduction in waist circumference of 11 ± 1.0 cm when using 0.5% aminophylline, compared to a reduction of 5.0 ± 0.6 cm in the control group.
 
-However, there is almost no discussion of this online. Eg:
+However, there is not that much discussion of this online. Here is all I could find:
 
-- [u/brasscup used aminophylline in the 90s for cellulite](https://old.reddit.com/r/SkincareAddiction/comments/xixd9o/diy_anybody_have_a_diy_recipe_for_cellulite_cream/){.source-link}, and [another comment of them discussing it](https://old.reddit.com/r/AskWomenOver60/comments/1l8wibb/help/mx8iitq){.source-link}
-
+- [Old blog from Tim Ferris in 2011 discussing aminophylline](https://tim.blog/2011/01/16/spot-reduction-revisited-removing-stubborn-thigh-fat/){.source-link}
+- [Reddit post from u/Lopsided_Bar2863 on r/4tran4 on aminophylline and glycyrrhetinic acid](https://old.reddit.com/r/4tran4/comments/1eq12mv/poons_theres_a_lifesaver_to_reduce_your_ass/){.source-link}
+- [u/brasscup on r/SkincareAddiction/ used aminophylline in the 90s for cellulite](https://old.reddit.com/r/SkincareAddiction/comments/xixd9o/diy_anybody_have_a_diy_recipe_for_cellulite_cream/){.source-link}, and [another comment of them discussing it](https://old.reddit.com/r/AskWomenOver60/comments/1l8wibb/help/mx8iitq){.source-link}
+- [Other reddit post on aminophylline, one commenter seems to think transdermal caffeine is better](https://old.reddit.com/r/Splendida/comments/n9ob7l/research_on_slimming_cream/){.source-link}
+- [Reddit post from u/mayoito on r/estrogel speculating about it](https://old.reddit.com/r/estrogel/comments/1guqhrl/topicals_for_losing_fat_creams_with_aminophylline/){.source-link}
+- [Reddit post from /LyleVestREYI, possibly AI generated](https://old.reddit.com/r/GlimmerGrit/comments/1mgqahp/best_cold_sculpting_body_treatment_cream_2025/){.source-link}
+- [Reddit post by will powers about aminophylline for vaginismus and anorgasmia (?)](https://old.reddit.com/r/vaginismus/comments/q7o2gm/a_patient_for_whom_i_make_a_custom_compound_that/){.source-link}
 
 ??? note "Sourcing, according to ChatGPT"
 
@@ -81,6 +85,18 @@ Transdermal caffein
 
 #### Waist-training
 As another option, if looking particularly to improve WHR or get a more hour-glass figure, could be waist training. This can often reduce appetite while worn. If done correctly this is usually quite safe, thought this does often cause the floating ribs 8-12 to shift inwards, and may cause some organs to move around.
+
+#### Rib reshaping surgery
+
+Breaking the ribs and reshaping using a corset. Usually only targets lower floaring ribs (10-12). Basically same effect as corset but longer-lasting / doesn't need continuous maintenence.
+
+See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_rib_reshaping) for more info.
+
+* Reddit: [Waist narrowing surgery by AnyaAnn in 2020](https://old.reddit.com/r/MtF/comments/g36qn0/waist_narrowing_surgery/){.source-link}
+
+* Article: [Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/){.source-link}
+
+
 
 #### Dangerous Darth Method
 This is a subtype of "waist training".
