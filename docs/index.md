@@ -59,6 +59,25 @@ However, there is not that much discussion of this online. Here is all I could f
 - [Reddit post from /LyleVestREYI, possibly AI generated](https://old.reddit.com/r/GlimmerGrit/comments/1mgqahp/best_cold_sculpting_body_treatment_cream_2025/){.source-link}
 - [Reddit post by will powers about aminophylline for vaginismus and anorgasmia (?)](https://old.reddit.com/r/vaginismus/comments/q7o2gm/a_patient_for_whom_i_make_a_custom_compound_that/){.source-link}
 
+??? note "Products containing aminophylline"
+
+    **Fat-Fader Body Toning Lotion**
+
+    Lists as "2.5% Aminophylline & Raspberry Ketones"
+
+    **AmiLean Cellulite/Firming Lotion**
+
+    Supposedly contains 2% aminophylline
+
+    **Lipo Sculpt Cream**
+    
+    Supposedly 0.5% aminophylline
+
+    **Jon Marini CelluliTX**
+
+    Unclear concentration. They filed a [patent](https://patentimages.storage.googleapis.com/36/3b/f2/3e917fce29a34f/US10179103.pdf) and claims, amongst other things,
+    > "0.5 to 2.5 % by weight aminophylline" 
+
 ??? note "Sourcing, according to ChatGPT"
 
     You can order **raw aminophylline powder** from laboratory-chemical vendors, while medical distributors will only supply it under a prescription or professional license.  
