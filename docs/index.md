@@ -96,14 +96,64 @@ However, there is not that much discussion of this online. Here is all I could f
 
     Regulatory note: Aminophylline is an FDA-listed prescription drug, so supplies intended for human or animal treatment normally require a prescriber’s order or a pharmacy/DEA license; research-grade material from chemical suppliers is labeled *not for human or veterinary use* and should be handled in accordance with local hazardous-chemical regulations. [link](https://www.boundtree.com/pharmaceuticals/rx-pharmaceuticals/aminophylline-25mg-ml-20ml-vial/p/5922-01)
 
+#### Glycyrrhetinic acid
 
-#### Transdermal Caffeine
+Much less discussed than aminophylline. 
+
+There is like one study from 2005 which seems to suggest a small reduction in a month without negligible weight loss, and it seems like nobody has tried to replicate it:
+
+- [Paper on 9 treatment + 9 control patients](https://pubmed.ncbi.nlm.nih.gov/15894038/){.source-link}
+
+> Weight (kg), before -> after
+> 
+> * treated: 60.5 ± 0.6 -> 60.2 ± 0.6 kg
+> * placebo: 59.2 ± 0.4 -> 59.0 ± 0.4 kg
+>
+> Circumference at middle of thigh (cm), before --> after:
+>
+> * treated thigh: 52.7 ± 1.0 --> 52.4 ± 1.0
+> * untreated thigh: 52.9 ± 1.4 --> 52.8 ± 1.4 
+> * placebo thigh: 51.9 ± 1.0 --> 51.8 ± 1.0
+> * untreated thigh: 51.1 ± 0.9 --> 51.2 ± 0.9
+> 
+> TLDR: 0.3cm difference after 1 month of applying 80mg 2.5% GA daily. minimal change in weight (~0.3kg)
+
+Other studies seem mostly to be in vitro, eg:
+- [in vitro lipolysis study](https://www.sciencedirect.com/science/article/abs/pii/S0006291X12005384){.source-link}
+
+There is even less discussion of GA online/on reddit:
+- [Reddit post from u/Lopsided_Bar2863 on r/4tran4 on aminophylline and glycyrrhetinic acid](https://old.reddit.com/r/4tran4/comments/1eq12mv/poons_theres_a_lifesaver_to_reduce_your_ass/){.source-link}
+
+#### Topical Caffeine
+
+Caffeine appears to affect the same PDE pathway as aminophylline, but there are not many studies using just caffeine.
+
+Some examples:
+
+* [study on 7% caffeine for cellulite](https://pubmed.ncbi.nlm.nih.gov/17524126/){.source-link}
+> "They were told to apply it in just one leg (thigh and hip) in order to keep the other one as control. The solution was applied twice daily (morning and night), and the dose was ∼15 mL per leg (thigh)."
+>
+> "99 completed the protocol"
+> 
+> "A 30-day treatment with this caffeine solution showed statistical significance concerning the reduction of circumference in treated thighs. This reduction was observed in more than 80% of the patients and was of about 2.1 cm in the thicker portion of the thigh and 1.7 cm in the lower portion. The use of 7% caffeine solution was also statistically significant in the reduction of hip circumference in 67.7% of the treated patients."
+
+* [study on 3.5% caffeine for cellulite](https://pubmed.ncbi.nlm.nih.gov/26082579/){.source-link}
+> Thigh and upper-arm circumferences decreased by 0.7 cm (1.7%) and 0.8 cm (2.3%), respectively, at week 6. (No control was provided).
+
+
+* [Study on caffeine + retinol + carnitine + others](https://pmc.ncbi.nlm.nih.gov/articles/PMC3933246/){.source-link}
+> Maintain usual diet + twice daily (caffeine + retinol + carnitine + others).
+> 12 weeks treatment:
+> 
+> Abdomen: −1.1cm (vs −0.4cm)
+> Thighs: -0.8cm (vs −0.3cm)
+> Hips: −0.8cm (vs −0.4cm)
 
 Transdermal caffein
 
 
 #### Waist-training
-As another option, if looking particularly to improve WHR or get a more hour-glass figure, could be waist training. This can often reduce appetite while worn. If done correctly this is usually quite safe, thought this does often cause the floating ribs 8-12 to shift inwards, and may cause some organs to move around.
+As another option, if looking particularly to improve WHR or get a more hour-glass figure, could be waist training. This can often reduce appetite while worn. This usually is done by causing the floating ribs 8-12 to shift inwards, and may cause some organs to move around. People who do it consider it safe but DYOR.
 
 #### Rib reshaping surgery
 
