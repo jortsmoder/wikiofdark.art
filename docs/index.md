@@ -251,7 +251,29 @@ Some recommend buying sarsapogenin directly:
 Leucine and Argenine have been shown to be particularly effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. 
 
 
-### Other chemicals
+## Skin
+
+#### Retinoids
+
+Eg: Retinol, Retialdehyde, Tretinoin
+
+Causes skin to churn more often.
+
+#### Niacinamide, Ceramides, Panthenol
+
+Help when skin barrier is damaged 
+
+* u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
+
+
+#### Verteporfin
+
+Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
+
+* Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
+
+
+## Other chemicals
 
 #### CJC-1295
 
