@@ -414,6 +414,17 @@ This person tried it and it seemed to work for them:
 
 #### Other
 
+## Shoulders
+
+#### Delt muscle atrophe
+
+You should try to have smaller delts.
+
+#### Clavicle Shortening
+
+* [Discussion on reddit](https://old.reddit.com/r/4tran4/comments/1mlcyaf/what_cis_girls_get_done_vs_what_trans_girls_get/){.source-link}
+
+
 ## Preserving Fertility pre-HRT
 
 ### Sperm Cryopreservation
