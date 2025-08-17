@@ -186,10 +186,9 @@ This method, labelled dangerous, by darth, involves following practices that are
 
 [Darth Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
 
-> starting: 32" underbust
-> after a "few weeks": 29.5" immediately when removed, 30.5 after an hour
-> 3 weeks later: 29 inches underbust with the binder, 30.0 without
-> after 2 years on, 1 year off: 29.5" stable
+I haven't looked into it much.
+
+- [Some study showing it made a difference](https://pubmed.ncbi.nlm.nih.gov/27060936/){.source-link}
 
 #### Selective Muscle training
 Strength training of specific muscles (e.g. the abdominals) prior to endurance training (e.g. a long cardio session) might be able to selectively burn fat in the corresponding area – this could be useful when trying to achieve a lower WHR.
