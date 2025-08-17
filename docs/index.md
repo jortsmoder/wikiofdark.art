@@ -5,6 +5,18 @@
 
 there is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in very niche things here.
 
+### Buying online
+
+- https://diyhrt.cafe/
+- https://diyhrt.info/
+- https://diyhrt.wiki/
+
+### Home-brewing
+
+if you have no other option, brewing at home is possible:
+
+- [https://groups.io/g/MTFHRT/wiki/Ultimate-DIY](https://groups.io/g/MTFHRT/wiki/Ultimate-DIY){.source-link}
+
 ## Weight Cycling
 
 The process of repetitively gaining and subsequently losing weight.
