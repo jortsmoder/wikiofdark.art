@@ -55,13 +55,16 @@ There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, d
 #### Aminophylline
 
 
-Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in a 2:1 ratio. It is a little-studied drug that inhibits dual phosphodiesterase (PDE) which causes cAMP to surge, and thus increase lipolysis.
+Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in a 2:1 ratio. Its most common use is in the treatment of airway obstruction from asthma or COPD. It has been shown to inhibit dual phosphodiesterase (PDE) which causes cAMP to surge, and thus increase lipolysis.
+
 
 * [Link to Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9978326/){ .source-link }
 
 In particular, [one study](https://pubmed.ncbi.nlm.nih.gov/17391155/){.source-link} on 25 men/women, when on a 1200kcal diet, achieved a reduction in waist circumference of 11 ± 1.0 cm when using 0.5% aminophylline, compared to a reduction of 5.0 ± 0.6 cm in the control group.
 
-However, there is not that much discussion of this online. Here is all I could find:
+There are also various studies on thigh circumference reduction, where it seems like weight loss is a key component.
+
+There is a small but existent discussion of this online. Here a I could find:
 
 - [Old blog from Tim Ferris in 2011 discussing aminophylline](https://tim.blog/2011/01/16/spot-reduction-revisited-removing-stubborn-thigh-fat/){.source-link}
 - [Reddit post from u/Lopsided_Bar2863 on r/4tran4 on aminophylline and glycyrrhetinic acid](https://old.reddit.com/r/4tran4/comments/1eq12mv/poons_theres_a_lifesaver_to_reduce_your_ass/){.source-link}
@@ -161,7 +164,6 @@ Some examples:
 > Thighs: -0.8cm (vs −0.3cm)
 > Hips: −0.8cm (vs −0.4cm)
 
-Transdermal caffein
 
 
 #### Waist-training
@@ -474,7 +476,7 @@ There are many different resources. Maybe try a few of these guides:
 - Lena [Shortcut to female voice](http://lena.kiev.ua/voice/){.source-link}
 - alyssavt [No explanations, just instructions! (feminizing)](https://buymeacoffee.com/alyssavt/no-explanations-instructions-feminizing){.source-link}
 - TransVoiceLessons [Youtube Channel](https://www.youtube.com/@TransVoiceLessons) and [BEGINNERS Video](https://www.youtube.com/watch?v=BfCS01MkbIY)
-- L's [Voice Training Guide](L's Voice Training Guide){.source-link}
+- L's [Voice Training Guide (Level 1) for MTF transgender vocal feminization](https://old.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/){.source-link}
 - [Voice Training, Essentially](https://voicefem-essentially.carrd.co/){.source-link}
 
 You can get an idea of how you are doing using the "Voice Tools" app (probably the most common app). It mostly just measures pitch though:
@@ -544,8 +546,7 @@ In places like UK and Ireland, the process is kinda slow. As of 2025, most place
 
 There are some good IVF clinics in Spain which are worth considering, such as IVI or Instituto Bernabeu, which are much faster, with the drawback of needing to spend a week or two in Spain.
 
-
-## Preserving fertility with some HRT.
+## methods when trying to preserve fertility
 
 Some resp
 
