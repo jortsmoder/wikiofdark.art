@@ -184,7 +184,14 @@ This is a subtype of "waist training".
 
 This method, labelled dangerous, by darth, involves following practices that are actively reccomended against in the FtM community when binding. may cause pain, costochondritis, cracked or fractured ribs, reduced lung capacity, lung or kidney damage from floating ribs etc.
 
-[Darth Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
+[Darthemofan Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
+
+> * starting: 32" underbust
+> * after a "few weeks": 29.5" immediately when removed, 30.5 after an hour
+> * 3 weeks later: 29 inches underbust with the binder, 30.0 without
+> * after 2 years on, 1 year off: 29.5" stable
+
+#### Radiofrequency Electric Field
 
 I haven't looked into it much.
 
