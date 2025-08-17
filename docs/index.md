@@ -425,6 +425,55 @@ You should try to have smaller delts.
 * [Discussion on reddit](https://old.reddit.com/r/4tran4/comments/1mlcyaf/what_cis_girls_get_done_vs_what_trans_girls_get/){.source-link}
 
 
+## Voice
+
+#### Voice Training
+
+There are many different resources. Maybe try a few of these guides:
+
+- Lena [Shortcut to female voice](http://lena.kiev.ua/voice/){.source-link}
+- alyssavt [No explanations, just instructions! (feminizing)](https://buymeacoffee.com/alyssavt/no-explanations-instructions-feminizing){.source-link}
+- TransVoiceLessons [Youtube Channel](https://www.youtube.com/@TransVoiceLessons) and [BEGINNERS Video](https://www.youtube.com/watch?v=BfCS01MkbIY)
+- L's [Voice Training Guide](L's Voice Training Guide){.source-link}
+- [Voice Training, Essentially](https://voicefem-essentially.carrd.co/){.source-link}
+
+You can get an idea of how you are doing using the "Voice Tools" app (probably the most common app). It mostly just measures pitch though:
+
+- [VoiceTools Android](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
+- [VoiceTools iOS](https://apps.apple.com/us/app/voice-tools/id1447495900)
+
+
+### Vocal Feminisation Surgery
+
+If wanting permanent results with less voice training, surgery is an option. Note that recovery can be quite difficult (eg: not speaking for 2 weeks - 2 months) and in general one retains more optionality/pitch if one trains. 
+
+In addition, one will sitll be required to do some amount of voice training even if you get surgery, otherwise your voice will sound somewhat unnatrual.
+
+From Reddit, it seems like Yeson Voice Center in South Korea is the best place to get it done.
+
+Here is an overview of some of the main methods.
+
+* [ChatGPT Comparison](/sources/chatgpt_vfs.html){.source-link}
+
+
+#### Cricothyroid Approximation (CTA)
+
+CTA was the first widely used pitch-raising procedure. Outcomes with CTA are less reliable and often less natural-sounding than other methods. Many patients’ voices acquire an unnaturally high or “falsetto” quality after CTA.
+
+#### Wendler Glottoplasty (Anterior Glottic Web Formation)
+
+Wendler glottoplasty is performed through the mouth, no external incisions, and physically shortens the vibratory length of the vocal folds. The surgeon removes or thins the epithelium (mucosal tissue) on the anterior (front) portion of both vocal folds and then stitches the front parts of the cords together, creating a small anterior web.
+
+This permanently reduces the length of the vibrating portion of the folds (similar to how a shorter guitar string produces a higher pitch). The reduced length and resulting increased tension cause a higher fundamental frequency when speaking.
+
+A notable variation of this is Yeson Voice Center’s VFSRAC technique.
+
+#### Feminization Laryngoplasty (FemLar)
+
+Feminization laryngoplasty is a more extensive surgical approach that physically reconstructs the larynx (voice box) to a smaller, more female size. it is an open-neck surgery combined with endoscopic work on the vocal folds.
+
+provides a comprehensive feminization of the voice. Because it addresses pitch and resonance. It is the most invasive option and thus carries greater risks and recovery demands. patients may lose both their lowest notes and a bit of their highest, leaving a narrower range.
+
 ## Preserving Fertility pre-HRT
 
 ### Sperm Cryopreservation
