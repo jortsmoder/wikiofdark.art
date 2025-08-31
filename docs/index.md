@@ -348,6 +348,10 @@ Help when skin barrier is damaged
 * u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
 
 
+### Avoiding scarring
+
+If cut, there is potential research on avoiding scar tissue from forming.
+
 #### Verteporfin
 
 Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
