@@ -299,6 +299,49 @@ Some recommend buying sarsapogenin directly:
 Leucine and Argenine have been shown to be particularly effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. 
 
 
+## Bone Altering
+
+### Waist-to-hip ratio
+
+#### Waist-training
+As another option, if looking particularly to improve WHR or get a more hour-glass figure, could be waist training. This can often reduce appetite while worn. This usually is done by causing the floating ribs 8-12 to shift inwards, and may cause some organs to move around. People who do it consider it safe but DYOR.
+
+Here are some good resources on this:
+
+- [4tran puppygirl's Corset Training Infodump](https://old.reddit.com/r/4tran4/comments/1ewl4c0/corset_training_infodump/){.source-link}
+
+- [Lucy corsettery FAQ](https://lucycorsetry.com/faq-contact/){.source-link}, or see her [Waist training blog posts](https://lucycorsetry.com/waist-training/)
+
+#### Dangerous Darth Method
+This is a subtype of "waist training".
+
+This method, labelled dangerous, by darth, involves following practices that are actively reccomended against in the FtM community when binding. may cause pain, costochondritis, cracked or fractured ribs, reduced lung capacity, lung or kidney damage from floating ribs etc.
+
+[Darthemofan Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
+
+> * starting: 32" underbust
+> * after a "few weeks": 29.5" immediately when removed, 30.5 after an hour
+> * 3 weeks later: 29 inches underbust with the binder, 30.0 without
+> * after 2 years on, 1 year off: 29.5" stable
+
+
+#### Rib reshaping surgery
+
+As a most extreme option, you may consider rib-reshaping surgery. However from what I have read, it doesn't seem like it has a more substantial effect than the two above methods, albeit being able to so in a shorter timespan and maybe the effects are more permanent.
+
+The surgery involves breaking the ribs and reshaping using a corset. Usually only targets lower floaring ribs (10-12). Basically same effect as corset but longer-lasting / doesn't need continuous maintenence.
+
+See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_rib_reshaping) for more info.
+
+* Reddit: [Waist narrowing surgery by AnyaAnn in 2020](https://old.reddit.com/r/MtF/comments/g36qn0/waist_narrowing_surgery/){.source-link}
+
+* Article: [Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/){.source-link}
+
+#### Rib removal surgery
+
+I generally do not reccomend this. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. 
+
+
 ## Skin
 
 #### Retinoids
