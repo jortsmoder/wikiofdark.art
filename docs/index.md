@@ -5,7 +5,7 @@
 
 This is a dump of some things I have on looksmaxxing your transition. Some things are far more researched than others. Some things are way more important, and some things have marginal benefits at best. Some things are much safer than others. Everything is currently a work in progress. This wiki, as it currently stands, mostly assumes male-to-female transitioning. 
 
-Some links I have read in less detail than others (see why [reading abstracts alone may be insufficient](https://labmuffin.com/why-you-cant-trust-study-abstracts/){.source-link}). I wrote this as there was no complete guide to all these techniques, many of which are super niche, and my hope is this will evolve into a page that becomes more trustworthy over time.
+Some links I have read in less detail than others (see why [reading abstracts alone may be insufficient](https://labmuffin.com/why-you-cant-trust-study-abstracts/){.source-link}). I wrote this as there was no complete guide to all these techniques, many of which are super niche. In it's current state, it is more of a jumping off point into things you may not have heard of, and my hope is this will evolve into a page that becomes more trustworthy over time.
 
 This site is best viewed on desktop, where source link will open an archived version to the side of the page. Opening a link in new tab will open the original page.
 
@@ -32,7 +32,7 @@ There is plenty of info on E and AAs and the like online. Info can be added here
 
 There are a few main things:
 
-- Estrogen levels: typically raised by taking some of Estradiol, via pills, gels, patches or injection.
+- Estrogen levels: typically raised by taking some of Estradiol, via pills, gels, patches or injection. Eg, see [dosing guide](https://papers.lgbt/papers/dosing){.source-link}
 - Androgen levels: typically lowered either by having sufficiently high estrogen levels, or surpressed using an anti-androgen
 - Progesterone: optional in transition, can affect mood and maybe breast growth, read [this research post](https://papers.lgbt/papers/prog){.source-link}
 - Other: includes things like SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
@@ -271,11 +271,10 @@ Stories from people:
  * [Reddit post on Adyfiline with information on dosing](https://old.reddit.com/r/DIYaesthetics/comments/1gt4n3m/adifyline_purchasingvolume_guide/){.source-link}, as well as [Follow up comments from the author](https://ihsoyct.github.io/index.html?backend=artic_shift&mode=comments&author=Gloomy-Scarcity-2197&limit=100&sort=desc&body=adifyline){.source-link}, seems to think it works.
  * [Other reddit post](https://old.reddit.com/r/DIYCosmeticProcedures/comments/1b46il3/adifyline_experimentation/){.source-link}, no method reported, didn't seem to work for them. 
  * [Other reddit post](https://old.reddit.com/r/DIYCosmeticProcedures/comments/18onbl8/adifyline_update_explanation/){.source-link}, strong positive results, reports increasing from A/B-cup to C-cup. "I made the mistake of putting it on my butt and I feel like an hourglass and I don’t like it perhaps because I wasn’t ready for such a transition"
- * 
 
 Typical place to buy is on LotionCrafters:
 
-* [lotioncrafters](https://lotioncrafter.com/collections/active-ingredients/products/adifyline)
+* [https://lotioncrafters.com/](https://lotioncrafter.com/collections/active-ingredients/products/adifyline)
 
 #### Acetyl-Hexapeptide-39 (Silusyne®)
 
