@@ -295,10 +295,17 @@ Volufiline is a patented cosmetic preparation containing Sarsapogenin which has 
 * [Volufiline Brochure / Patent filing](/assets/volufiline.pdf)
 
 Some recommend buying sarsapogenin directly:
+
  * [Reddit post on buying sarasapogenin](https://old.reddit.com/r/estrogel/comments/1bodb0k/dont_waste_money_on_volufiline_get_the_raw/){.source-link}
 
 #### Leucine and Argenine 
-Leucine and Argenine have been shown to be particularly effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. 
+Leucine and Argenine have been shown to be effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. I haven't looked deeply into this.
+
+### Things to Avoid
+
+#### Alcohol Consumption
+
+Moderate alcohol consumption increases abdominal fat, worsening fat distribution, and increases plasma androgens in cisgender females. Therefore it is highly discouraged.
 
 
 ## Bone Altering
@@ -371,7 +378,7 @@ You can lose ~2cm of shoulder width from each side through surgery. The surgery 
 
 
 
-## Skin
+## Skin (Face)
 
 The most important tips:
 
@@ -426,6 +433,7 @@ Causes skin to churn more often, and makes it more fresh.
 Some small, industry-adjacent trials show modest wrinkle improvements; evidence is promising but limited compared with retinoids. Safe to try as an add-on, just keep expectations realistic. 
 
 For example:
+
 - [see general study on peptides](https://pmc.ncbi.nlm.nih.gov/articles/PMC11762834){.source-link}
 
 
@@ -440,82 +448,6 @@ Help when skin barrier is damaged
 
 * u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
 
-### Avoiding scarring
-
-If cut, there is potential research on avoiding scar tissue from forming.
-
-#### Verteporfin
-
-Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
-
-* Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
-
-
-## Other chemicals
-
-#### CJC-1295
-
-CJC-1295 DAC, also known as DAC:GRF, is a synthetic peptide analogue of growth hormone-releasing hormone and a growth hormone secretagogue. It is a modified form of GHRH with improved pharmacokinetics, especially in regard to half-life.
-
-- [article about it](https://allaboutpeptides.com/cjc-1295-peptide/){.source-link}
-- [post about it on Reddit](https://old.reddit.com/r/DrWillPowers/comments/uh22mo/cjc1295_wdac_effect_on_breast_growth_and_surgery/){.source-link}
-
-#### ipamorelin
-
-Ipamorelin is a peptide selective agonist of the ghrelin/growth hormone secretagogue receptor and a growth hormone secretagogue. It is a pentapeptide with the amino acid sequence Aib-His-D-2-Nal-D-Phe-Lys-NH₂ that was derived from GHRP-1. Ipamorelin significantly increases plasma growth hormone levels in both animals and humans. In addition, ipamorelin stimulates body weight gain in animals
-
-#### tesmorelin
-
-Tesamorelin is a synthetic hormone used to reduce excess abdominal fat in adults with HIV-associated lipodystrophy. It is administered via subcutaneous injection and requires a prescription from a doctor.
-
-I have seen one report of someone injecting 6/3/3mg mix of tesmorelin/cjc1295/ipamorelin vial into belly fat.
-
-> The cjc1295, I inject into belly fat, a 6/3/3mg mix of tesmorelin/cjc1295/ipamorelin vial. A few minutes after the injection, I can feel a headrush, and any soreness recovery from exercise appears to happen within hours, however there may be soreness in the breasts from tissues expanding.
-
-#### igf-1 DES
-
-Des(1-3)IGF-1 is a truncated form of insulin-like growth factor 1 (IGF-1) that has enhanced potency compared to IGF-1 due to its reduced binding to insulin-like growth factor-binding proteins. It is used in research and has potential therapeutic applications, particularly in growth-related conditions
-
-> I inject the igf-1 DES in the right breast area as the lymphatic system drains into the left side if I understand it correctly. The DES modification of igf-1 is very potent and activates all the growth receptors, including insulin receptors. The half life isn't very long, but the effect is noticable. About 0.05mL at a time, twice a day, from a 2mL of bacteriostatic water in a 1mg igf-1 DES vial.
-
-
-#### kisspeptin 
-
-Kisspeptin stimulates production of GnRH, FSH and LH and is much cheaper than (prescription-only) injectable FSH (follitropin). Can lead to additional breast growth.
-
-FSH seems to help with breast growth.
-
-LH stimulates production of testosterone by testicles, so this would need to be controlled, eg, with bicalutamide.
-
-
-Example dosage:
-> 5mg/3ml 0.05 ml thrice a week (injections with insulin syringes with needles 8 mm into fat on thigh, buttock or arm, not abdomen)
-> * https://www.uk-peptides.com/kisspeptin-10-peptide
-> * https://www.uk-peptides.com/10ml-bacteriostatic-water
->
-> reported side effect of kisspeptin:
-> - pain in abdomen (influence on intestine or colon).
-
-Link to article about it:
-
-
-### Things to Avoid
-
-#### Alcohol Consumption
-
-Moderate alcohol consumption increases abdominal fat, worsening fat distribution, and increases plasma androgens in cisgender females. Therefore it is highly discouraged.
-
-
-## Face
-
-#### Suncream
-
-Most obvious, shuldn't even need to say it, but do apply suncream to face every day.
-
-#### Retinoids
-
-Retinol (weak) and Tretinoin (strong)
-
 #### Red light therapy
 
 Some early results says it helps.
@@ -526,7 +458,18 @@ Hylauranic acids, Niacinamide, Vitamin C, Glycolic Acids, etc... probably help a
 
 #### Face Plumpness
 
-HRT helps. Otherwise, look at Adyfiline, Volufiline, and such. See above.
+HRT helps. Otherwise, look at [Adyfiline](#acetyl-hexapeptide-38-adifyline), [Volufiline](#volufiline), and such above.
+
+
+### Avoiding scarring
+
+If cut, there is potential research on avoiding scar tissue from forming.
+
+#### Verteporfin
+
+Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
+
+* Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
 
 
 ## Body Hair
@@ -559,48 +502,6 @@ Most find the pain tollerable / not that bad, but if you have particularly sensi
 #### Electrolysis
 
 Most permanent method, involves actually killing the hair follicles with electricity. Most expensive and painful option.
-
-
-
-## Hair
-
-### General care
-
-See reddit tbh I ain't bothered to write it all here.
-
-* [Reddit r/HaircareScience Wiki](https://www.reddit.com/r/HaircareScience/wiki/index/)
-
-#### Fringe
-
-A common strategy in the MtF trans community to "improve shaping of the face" is to get a fringe. 
-
-
-### Prevent loss / regain growth
-
-#### Finasteride / Dutasteride
-
-Decreases DHT levels to prevent hair loss (NOT an anti-androgen) and is associated with mental health effects. See other websites for this, these are common.
-
-#### Minoxidil
-
-Promotes hair growth. See other website for this, also quite common. (or someone else please update this)
-
-#### Topical Estrogen (without feminization)
-> try to wash your face 5 minutes after applying [5 mg/ml estriol serum]: this will only allow the shunt pathway (ie through hair follicules) maximizing the effect on follicules and therefore the pores, without allowing normal transdermal absorption
-> this method is used by men using E2 to regrow hair without systemic side effects (like boobs) and is supported by papers I read (search the sub for the shunt pathway)
-
-I haven't looked much at this. See [comment in this unrelated reddit post](https://old.reddit.com/r/estrogel/comments/1bodb0k/dont_waste_money_on_volufiline_get_the_raw/){.source-link}
-
-### PP405
-
-PP405, a currently-under-research compound currently in clinical trials for hair growth.
-
-* [Article on PP405](https://www.dermatologytimes.com/view/pelage-s-pp405-demonstrates-efficacy-in-phase-2a-trial-for-androgenetic-alopecia){.source-link}
-
-
-#### Hair Transplant
-
-Todo: add more info here.
 
 ## Breast Growth
 
@@ -701,6 +602,103 @@ A notable variation of this is Yeson Voice Center’s VFSRAC technique in South 
 Feminization laryngoplasty is a more extensive surgical approach that physically reconstructs the larynx (voice box) to a smaller, more female size. it is an open-neck surgery combined with endoscopic work on the vocal folds.
 
 Provides a comprehensive feminization of the voice. Because it addresses pitch and resonance. It is the most invasive option and thus carries greater risks and recovery demands. patients may lose both their lowest notes and a bit of their highest, leaving a narrower range.
+
+## Hair
+
+### General care
+
+See reddit tbh I ain't bothered to write it all here.
+
+* [Reddit r/HaircareScience Wiki](https://www.reddit.com/r/HaircareScience/wiki/index/)
+
+#### Fringe
+
+A common strategy in the MtF trans community to "improve shaping of the face" is to get a fringe. 
+
+
+### Prevent loss / regain growth
+
+#### Finasteride / Dutasteride
+
+Decreases DHT levels to prevent hair loss (NOT an anti-androgen) and is associated with mental health effects. See other websites for this, these are common.
+
+#### Minoxidil
+
+Promotes hair growth. See other website for this, also quite common. (or someone else please update this)
+
+#### Topical Estrogen (without feminization)
+> try to wash your face 5 minutes after applying [5 mg/ml estriol serum]: this will only allow the shunt pathway (ie through hair follicules) maximizing the effect on follicules and therefore the pores, without allowing normal transdermal absorption
+> this method is used by men using E2 to regrow hair without systemic side effects (like boobs) and is supported by papers I read (search the sub for the shunt pathway)
+
+I haven't looked much at this. See [comment in this unrelated reddit post](https://old.reddit.com/r/estrogel/comments/1bodb0k/dont_waste_money_on_volufiline_get_the_raw/){.source-link}
+
+### PP405
+
+PP405, a currently-under-research compound currently in clinical trials for hair growth.
+
+* [Article on PP405](https://www.dermatologytimes.com/view/pelage-s-pp405-demonstrates-efficacy-in-phase-2a-trial-for-androgenetic-alopecia){.source-link}
+
+
+#### Hair Transplant
+
+Todo: add more info here.
+
+## Other chemicals
+
+There are various other things aspects one could consider, including growth hormone and various peptides that have selective similar effects. For the most part, I haven't looked into this topic that deeply. Below are some links for those interested. Feel free to propose git pull requests on these sections.
+
+#### IGF-1, Growth Hormone, and GHRH Agonists
+
+Some links of possible interest:
+
+* [igf-1 and the use of ghrh analogues in mtf breast development](https://papers.lgbt/papers/igf){.source-link}
+* [GHRH analogs and their potential role as non-hormonal adjuncts for masculinization in female-to-male transsexuals](https://papers.lgbt/papers/ghrh){.source-link}
+
+#### CJC-1295
+
+CJC-1295 DAC, also known as DAC:GRF, is a synthetic peptide analogue of growth hormone-releasing hormone and a growth hormone secretagogue. It is a modified form of GHRH with improved pharmacokinetics, especially in regard to half-life.
+
+- [article about it](https://allaboutpeptides.com/cjc-1295-peptide/){.source-link}
+- [post about it on Reddit](https://old.reddit.com/r/DrWillPowers/comments/uh22mo/cjc1295_wdac_effect_on_breast_growth_and_surgery/){.source-link}
+
+#### ipamorelin
+
+Ipamorelin is a peptide selective agonist of the ghrelin/growth hormone secretagogue receptor and a growth hormone secretagogue. It is a pentapeptide with the amino acid sequence Aib-His-D-2-Nal-D-Phe-Lys-NH₂ that was derived from GHRP-1. Ipamorelin significantly increases plasma growth hormone levels in both animals and humans. In addition, ipamorelin stimulates body weight gain in animals
+
+#### tesmorelin
+
+Tesamorelin is a synthetic hormone used to reduce excess abdominal fat in adults with HIV-associated lipodystrophy. It is administered via subcutaneous injection and requires a prescription from a doctor.
+
+I have seen one report of someone injecting 6/3/3mg mix of tesmorelin/cjc1295/ipamorelin vial into belly fat.
+
+> The cjc1295, I inject into belly fat, a 6/3/3mg mix of tesmorelin/cjc1295/ipamorelin vial. A few minutes after the injection, I can feel a headrush, and any soreness recovery from exercise appears to happen within hours, however there may be soreness in the breasts from tissues expanding.
+
+#### igf-1 DES
+
+Des(1-3)IGF-1 is a truncated form of insulin-like growth factor 1 (IGF-1) that has enhanced potency compared to IGF-1 due to its reduced binding to insulin-like growth factor-binding proteins. It is used in research and has potential therapeutic applications, particularly in growth-related conditions
+
+> I inject the igf-1 DES in the right breast area as the lymphatic system drains into the left side if I understand it correctly. The DES modification of igf-1 is very potent and activates all the growth receptors, including insulin receptors. The half life isn't very long, but the effect is noticable. About 0.05mL at a time, twice a day, from a 2mL of bacteriostatic water in a 1mg igf-1 DES vial.
+
+
+#### kisspeptin 
+
+Kisspeptin stimulates production of GnRH, FSH and LH and is much cheaper than (prescription-only) injectable FSH (follitropin). Can lead to additional breast growth.
+
+FSH seems to help with breast growth.
+
+LH stimulates production of testosterone by testicles, so this would need to be controlled, eg, with bicalutamide.
+
+
+Example dosage:
+> 5mg/3ml 0.05 ml thrice a week (injections with insulin syringes with needles 8 mm into fat on thigh, buttock or arm, not abdomen)
+> * https://www.uk-peptides.com/kisspeptin-10-peptide
+> * https://www.uk-peptides.com/10ml-bacteriostatic-water
+>
+> reported side effect of kisspeptin:
+> - pain in abdomen (influence on intestine or colon).
+
+Link to article about it:
+
 
 ## Preserving Fertility pre-HRT
 
