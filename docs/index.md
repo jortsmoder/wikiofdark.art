@@ -24,10 +24,12 @@ Many of the things discussed here are precisely those that are more marginal and
 there is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in very niche things here.
 
 TL;DR: 
-There are a few main things to keep in mind:
+There are a few main things:
 - Estrogen levels: typically raised by taking some of Estradiol, via pills, gels, patches or injection.
 - Androgen levels: typically lowered either by having sufficiently high estrogen levels, or surpressed using an anti-androgen
-- Other: more non-binary options include SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
+- Other: includes things like SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
+
+You would be much better off reading a better guide, such as this one
 
 ### More detailed guides, including sourcing:
 
