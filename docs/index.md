@@ -541,13 +541,13 @@ Wendler glottoplasty is performed through the mouth, no external incisions, and 
 
 This permanently reduces the length of the vibrating portion of the folds (similar to how a shorter guitar string produces a higher pitch). The reduced length and resulting increased tension cause a higher fundamental frequency when speaking.
 
-A notable variation of this is Yeson Voice Center’s VFSRAC technique.
+A notable variation of this is Yeson Voice Center’s VFSRAC technique in South Korea. This is probably the most highly regarded voice center I have read about.
 
 #### Feminization Laryngoplasty (FemLar)
 
 Feminization laryngoplasty is a more extensive surgical approach that physically reconstructs the larynx (voice box) to a smaller, more female size. it is an open-neck surgery combined with endoscopic work on the vocal folds.
 
-provides a comprehensive feminization of the voice. Because it addresses pitch and resonance. It is the most invasive option and thus carries greater risks and recovery demands. patients may lose both their lowest notes and a bit of their highest, leaving a narrower range.
+Provides a comprehensive feminization of the voice. Because it addresses pitch and resonance. It is the most invasive option and thus carries greater risks and recovery demands. patients may lose both their lowest notes and a bit of their highest, leaving a narrower range.
 
 ## Preserving Fertility pre-HRT
 
