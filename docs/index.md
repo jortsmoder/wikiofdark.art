@@ -374,15 +374,24 @@ For smaller shoulder-to-hip ratio, get smaller delts. Do this by not exercising 
 
 In general, it is much easier to gain hip width rather than lose shoulder width, so you should try to do that first.
 
-#### Surgical Clavicle Shortening
+#### Surgical Shortening
 
-You can lose ~2cm of shoulder width from each side through surgery. The surgery is generally quite minor but not often done, as the effects are not that large. Often this will result in an undesireable hunched look. This is not something I would particularly reccomend, but I haven't spent that much time looking at this.
+There are two main bones for your shoulders: in the front, the clavicle (collar bone), and in the back, the scapula (shoulder blades). 
+
+You can lose ~2cm of shoulder width from each side through surgery. The surgery is generally quite minor but not often done, as the effects are not huge. 
+
+Here is an example:
+
+- [u/wyrecharm on reddit](https://old.reddit.com/r/Transgender_Surgeries/comments/14gmuq8/3_months_postop_clavicle_and_scapula_reduction/){.source-link}
+
+clavicle shortening can give a bit of a hunched look. This is not something I would particularly reccomend, but I haven't spent that much time looking at this.
 
 * [some discussion on reddit](https://old.reddit.com/r/4tran4/comments/1mlcyaf/what_cis_girls_get_done_vs_what_trans_girls_get/){.source-link}
 
 
+## Face
 
-## Skin (Face)
+### Skin
 
 The most important tips:
 
@@ -460,20 +469,32 @@ Some early results says it helps.
 
 Hylauranic acids, Niacinamide, Vitamin C, Glycolic Acids, etc... probably help and combine to have a good effect, but not as huge an effect.
 
-#### Face Plumpness
+### Facial Fat Distribution
 
-HRT helps. Otherwise, look at [Adyfiline](#acetyl-hexapeptide-38-adifyline), [Volufiline](#volufiline), and such above.
+HRT has substantial effects on facial fat distribution. 
 
+Otherwise, look at [Adyfiline](#acetyl-hexapeptide-38-adifyline), [Volufiline](#volufiline), and such above.
 
-### Avoiding scarring
+### Facial Feminisation Surgery (FFS)
 
-If cut, there is potential research on avoiding scar tissue from forming.
+The face has some main parts, usually divided into something like this:
 
-#### Verteporfin
+- hair line
+- forehead
+- browbone
+- orbitals
+- nose
+- cheeks
+- philtrum
+- lips
+- chin
+- jaw
 
-Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
+Here is a relatively good starting guide to FFS:
 
-* Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
+* [A comprehensive guide to FFS](https://stainedglasswoman.substack.com/p/face-first){.source-link}
+
+FFS can get quite expensive quite quickly, and there are some surgeons more reputable than others, but no obvious picks. It is difficult to find surgeons who are well known to be good, have reasonable waiting times, and have reasonably prices. One must trade off on some of these. It can also be difficult to compare, as it is much more custom for different people.
 
 
 ## Body Hair
@@ -651,6 +672,8 @@ Todo: add more info here.
 
 There are various other things aspects one could consider, including growth hormone and various peptides that have selective similar effects. For the most part, I haven't looked into this topic that deeply. Below are some links for those interested. Feel free to propose git pull requests on these sections.
 
+
+
 #### IGF-1, Growth Hormone, and GHRH Agonists
 
 Some links of possible interest:
@@ -703,6 +726,15 @@ Example dosage:
 
 Link to article about it:
 
+### Avoiding scarring
+
+If cut, there is potential research on avoiding scar tissue from forming.
+
+#### Verteporfin
+
+Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
+
+* Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
 
 ## Preserving Fertility pre-HRT
 
