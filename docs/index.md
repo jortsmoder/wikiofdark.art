@@ -429,7 +429,7 @@ The first is Iron Oxides/Titanium Oxide, which have the downside of having a tin
 
 The other option is [Mexoryl 400](https://en.wikipedia.org/wiki/Methoxypropylamino_cyclohexenylidene_ethoxyethylcyanoacetate){.source-link}, which is particularly effective in the 360−400 nm range, but is still under patent by L'Oréal.
 
-Thus, the "best" suncreams are mostly from L'Oreal, such as La Rocke Posay UVMune 400 products. See [review by Lab Muffin](https://labmuffin.com/la-roche-posay-uvmune-400-science-and-review/){.source-link}. But are somewhat on the pricer end. 
+Thus, the "best" suncreams are mostly from L'Oreal, such as La Roche Posay UVMune 400 products. See [review by Lab Muffin](https://labmuffin.com/la-roche-posay-uvmune-400-science-and-review/){.source-link}. But are somewhat on the pricer end. 
 
 I have personally found korean and japanese have the best texture, and personally like SkinAqua products the most out of various things I have tried (especially SkinAqua UV Super Moisture milk, as it is unscented and has a pleasant texture). But I am no expert on this, you may be better trusting a real reviewer such as Lab Muffin.
 
