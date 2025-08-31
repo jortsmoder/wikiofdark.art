@@ -371,6 +371,39 @@ Hylauranic acids, Niacinamide, Vitamin C, Glycolic Acids, etc... probably help a
 HRT helps. Otherwise, look at Adyfiline, Volufiline, and such. See above.
 
 
+## Body Hair
+
+There are a few main methods of hair removal:
+
+#### Shaving
+
+This one is obvious. Doesn't last very long
+
+#### Waxing
+
+Also obvious, lasts longer but non-permanent
+
+#### Hair Removal Creams
+
+This can lighten and thin out the hair somewhat, also temporary
+
+#### Laser Hair Removal
+
+This is more peramanent than other methods, and involves damaging your hair follicles with lasers. Typical is to do ~8 sessions spaced apart by 4 weeks. Depends a lot on skin type and hair colour. Dark hair + light skin works the best. 
+
+Still requires top ups after the 8 sessions.
+
+Most find the pain tollerable / not that bad, but if you have particularly sensitive skin and find that after the session is was too unpleasant, there are things you can take to releave pain topically:
+
+- [reddit post on anesthetic creams](https://old.reddit.com/r/asktransgender/comments/ewhy0b/psa_if_you_do_laser_or_electrolysis_get/){.source-link}
+- [reddit post on microneedling also discussing anesthetic creams](https://old.reddit.com/r/vindicta30plus/comments/1blaz1l/microneedling_a_review_and_how_do_to_that_at_home/){.source-link}
+
+#### Electrolysis
+
+Most permanent method, involves actually killing the hair follicles with electricity. Most expensive and painful option.
+
+
+
 ## Hair
 
 ### General care
