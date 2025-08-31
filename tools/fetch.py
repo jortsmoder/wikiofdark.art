@@ -249,7 +249,7 @@ def is_arctic_shift_api(url: str) -> bool:
     return 'arctic-shift.photon-reddit.com' in parsed.netloc and '/api/' in parsed.path
 
 def archive_arctic_shift_api(url: str) -> str:
-    """Archive Arctic Shift API results as minimal Markdown"""
+    """Archive Arctic Shift API results as HTML"""
     try:
         headers = {"User-Agent": "Mozilla/5.0 (ArchiveBot/1.0)"}
         response = requests.get(url, timeout=30, headers=headers)
@@ -259,7 +259,7 @@ def archive_arctic_shift_api(url: str) -> str:
         comments = data.get('data', [])
         
         if not comments:
-            return "# Reddit Comments\n\nNo comments found.\n"
+            return "<h1>Reddit Comments</h1><p>No comments found.</p>"
         
         # Extract search info from URL for title
         parsed_url = urlparse(url)
@@ -281,7 +281,7 @@ def archive_arctic_shift_api(url: str) -> str:
         
         title = "Comments by " + " • ".join(title_parts) if title_parts else "Reddit Comments"
         
-        md_content = f"# {title}\n\n"
+        html_content = f"<h1>{html.escape(title)}</h1>\n\n"
         
         for comment in comments:
             # Extract comment info
@@ -300,9 +300,11 @@ def archive_arctic_shift_api(url: str) -> str:
                 date_obj = datetime.datetime.fromtimestamp(created_utc, tz=datetime.timezone.utc)
                 date_str = date_obj.strftime('%Y-%m-%d %H:%M UTC')
             
-            # Format the comment
-            md_content += f"**{permalink}**\n"
-            md_content += f"{reddit_url}\n\n"
+            # Format the comment as HTML
+            html_content += '<div class="comment">\n'
+            html_content += f'  <div class="comment-header">\n'
+            html_content += f'    <strong><a href="{reddit_url}" target="_blank">{html.escape(permalink)}</a></strong>\n'
+            html_content += f'  </div>\n'
             
             # User info line
             user_info = f"u/{author} • {score} points"
@@ -310,21 +312,23 @@ def archive_arctic_shift_api(url: str) -> str:
                 user_info += f" • {date_str}"
             if subreddit:
                 user_info += f" • r/{subreddit}"
-            md_content += f"{user_info}\n\n"
+            html_content += f'  <div class="comment-meta">{html.escape(user_info)}</div>\n'
             
             # Comment body (handle newlines properly)
             if body:
                 # Replace \n with actual newlines and clean up
                 clean_body = body.replace('\\n', '\n').strip()
-                md_content += f"{clean_body}\n\n"
+                # Convert newlines to HTML line breaks and escape HTML
+                clean_body_html = html.escape(clean_body).replace('\n', '<br>\n')
+                html_content += f'  <div class="comment-body">{clean_body_html}</div>\n'
             
-            md_content += "---\n\n"
+            html_content += '</div>\n<hr>\n\n'
         
-        return md_content
+        return html_content
         
     except Exception as e:
         print(f"⚠ Arctic Shift API archiving failed ({e})")
-        return f"# Error\n\nFailed to archive API response: {e}\n"
+        return f"<h1>Error</h1><p>Failed to archive API response: {html.escape(str(e))}</p>"
 
 def convert_ihsoyct_to_api_url(url: str) -> str:
     """Convert ihsoyct.github.io URL to Arctic Shift API URL"""
@@ -373,10 +377,10 @@ def archive(url: str, out_dir: pathlib.Path, force: bool):
         url = convert_ihsoyct_to_api_url(url)
         print(f"   API URL: {url}")
     
-    # Check for API URL and change extension to .md
+    # Check for API URL and change extension to .html
     is_api_url = is_arctic_shift_api(url)
     if is_api_url or is_reddit_search_tool(original_url):
-        fname = fname.with_suffix('.md')
+        fname = fname.with_suffix('.html')
     
     if fname.exists() and not force:
         print(f"✓ cached: {original_url}")
@@ -389,8 +393,42 @@ def archive(url: str, out_dir: pathlib.Path, force: bool):
         
         if is_arctic_shift_api(url):
             content = archive_arctic_shift_api(url)
-            # For markdown, just add header and content
-            final_content = generate_markdown_archive_header(original_url, archive_date) + content
+            # Enhanced styling with archive header for HTML
+            archive_style = """
+        <style>
+            body{font-family:system-ui,sans-serif;max-width:50rem;margin:2rem auto;line-height:1.6;padding:1rem}
+            img,iframe{max-width:100%}
+            .archive-header{background:#f0f8ff;border:1px solid #e0e0e0;border-radius:5px;padding:0.75rem;margin-bottom:1rem;font-size:0.9rem}
+            .archive-info{margin-bottom:0.5rem;color:#666}
+            .archive-source{color:#666}
+            .archive-header a{color:#007acc;text-decoration:none}
+            .archive-header a:hover{text-decoration:underline}
+            .comment{background:#f9f9f9;border:1px solid #e0e0e0;border-radius:5px;padding:1rem;margin:1rem 0}
+            .comment-header{font-weight:bold;margin-bottom:0.5rem}
+            .comment-header a{color:#007acc;text-decoration:none}
+            .comment-header a:hover{text-decoration:underline}
+            .comment-meta{color:#666;font-size:0.9em;margin-bottom:0.75rem}
+            .comment-body{white-space:pre-wrap;line-height:1.5}
+            hr{border:none;border-top:1px solid #ddd;margin:1.5rem 0}
+            @media (prefers-color-scheme: dark) {
+                body{background:#1a1a1a;color:#e0e0e0}
+                .archive-header{background:#1a1a2e;border-color:#333;color:#e0e0e0}
+                .archive-info, .archive-source{color:#ccc}
+                .archive-header a{color:#66b3ff}
+                .comment{background:#2a2a2a;border-color:#444;color:#e0e0e0}
+                .comment-header a{color:#66b3ff}
+                .comment-meta{color:#aaa}
+                hr{border-top-color:#444}
+            }
+        </style>
+        """
+            final_content = (
+                "<meta charset='utf-8'>\n" +
+                "<base target='_blank'>\n" +
+                archive_style + "\n" +
+                generate_archive_header(original_url, archive_date) + "\n" +
+                content
+            )
         elif is_reddit_url(url):
             content = archive_reddit(url)
             # Enhanced styling with archive header for HTML
