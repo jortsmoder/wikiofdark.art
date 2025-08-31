@@ -776,4 +776,4 @@ I have read some reports of people applying estrogel on the scalp and washing if
 
 ## Contributing
 
-To contibute, make an issue on git
+To contibute, make an issue on git: [https://git.wikiofdark.art/](https://git.wikiofdark.art/)
