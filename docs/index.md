@@ -433,6 +433,9 @@ Thus, the "best" suncreams are mostly from L'Oreal, such as La Roche Posay UVMun
 
 I have personally found korean and japanese have the best texture, and personally like SkinAqua products the most out of various things I have tried (especially SkinAqua UV Super Moisture milk, as it is unscented and has a pleasant texture). But I am no expert on this, you may be better trusting a real reviewer such as Lab Muffin.
 
+If you want a flowchart, here is a nice one:
+
+[Sunscreen Flowchart](https://x.com/soft_fox_lad/status/1951033291995316701){.source-link}
 
 
 
