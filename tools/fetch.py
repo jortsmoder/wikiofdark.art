@@ -9,8 +9,6 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 def reader_mode(html_content: str) -> str:
-    print("Getting reader mode for HTML", html_content)
-
     doc = Document(html_content)
     short_title = doc.short_title() or ""
     title_html = f"<h1>{html.escape(short_title)}</h1>\n" if short_title else ""
