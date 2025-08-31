@@ -3,7 +3,7 @@
 
 ## What is this?
 
-This is a dump of some things I have on looksmaxxing your transition. Some things are far more researched than others. Some things are way more important, and some things have marginal benefits at best. Some things are much safer than others. Everything is currently a work in progress.
+This is a dump of some things I have on looksmaxxing your transition. Some things are far more researched than others. Some things are way more important, and some things have marginal benefits at best. Some things are much safer than others. Everything is currently a work in progress. This wiki, as it currently stands, mostly assumes male-to-female transitioning.
 
 ## How should I start?
 
@@ -23,13 +23,17 @@ Many of the things discussed here are precisely those that are more marginal and
 
 There is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in more niche things here at the moment.
 
-TL;DR: 
+
+### HRT TL;DR
+
 There are a few main things:
 
 - Estrogen levels: typically raised by taking some of Estradiol, via pills, gels, patches or injection.
 - Androgen levels: typically lowered either by having sufficiently high estrogen levels, or surpressed using an anti-androgen
 - Progesterone: optional in transition, can affect mood and maybe breast growth, read [this research post](https://papers.lgbt/papers/prog){.source-link}
 - Other: includes things like SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
+
+Most important is to make sure androgen levels are sufficiently lowered.
 
 You would be much better off reading a better guide, such as this [Practical Guide to Feminization](https://pghrt.diy/){.source-link} or more detailed specialised websites, guides, including sourcing:
 
