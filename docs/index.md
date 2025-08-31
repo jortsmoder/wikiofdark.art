@@ -353,6 +353,21 @@ See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_ri
 
 I generally do not reccomend this. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. 
 
+## Shoulders
+
+#### Delt muscle atrophe
+
+For smaller shoulder-to-hip ratio, get smaller delts. Do this by not exercising your delts in the gym. This would affect bideltoid shoulder width, but not bichromal shoulder width, which would becomde the main minimum width limitation. 
+
+In general, it is much easier to gain hip width rather than lose shoulder width, so you should try to do that first.
+
+#### Surgical Clavicle Shortening
+
+You can lose ~2cm of shoulder width from each side through surgery. The surgery is generally quite minor but not often done, as the effects are not that large. Often this will result in an undesireable hunched look. This is not something I would particularly reccomend, but I haven't spent that much time looking at this.
+
+* [some discussion on reddit](https://old.reddit.com/r/4tran4/comments/1mlcyaf/what_cis_girls_get_done_vs_what_trans_girls_get/){.source-link}
+
+
 
 ## Skin
 
@@ -635,17 +650,6 @@ This person tried it and it seemed to work for them:
     > XY women develop rather spectacularly feminine secondary sexual characteristics though nothing in their bodies makes progesterone.
 
 #### Other
-
-## Shoulders
-
-#### Delt muscle atrophe
-
-You should try to have smaller delts.
-
-#### Clavicle Shortening
-
-* [Discussion on reddit](https://old.reddit.com/r/4tran4/comments/1mlcyaf/what_cis_girls_get_done_vs_what_trans_girls_get/){.source-link}
-
 
 ## Voice
 
