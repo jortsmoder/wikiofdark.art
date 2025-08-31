@@ -353,7 +353,7 @@ See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_ri
 
 I generally do not reccomend this. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. 
 
-## Shoulders
+### Shoulders
 
 #### Delt muscle atrophe
 
@@ -625,7 +625,7 @@ This person tried it and it seemed to work for them:
 >
 > if your goal is to maximize the ductal scaffold before layering alveolar fullness, wait for budding, then consider progesterone, understanding that its volumetric benefit is unproven and may be subtle or person‑specific
 
-??? note "Notes on Progesterone" from Lena (groups.io DIYHRT)
+??? note "Notes on Progesterone from Lena (groups.io DIYHRT)"
 
     > 1. Injectable progesterone is short-acting, must be injected daily.
     > Oral progesterone is ineffective because most of it is converted to allopregnanolone which common blood tests confuse with progesterone.
