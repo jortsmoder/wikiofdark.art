@@ -39,9 +39,11 @@ You would be much better off reading a better guide, such as this [Practical Gui
 
 ### Home-brewing
 
-if you have no other option, brewing at home is possible:
+In terms of safety, the general wisdom is that: pharmaceutical grade > reputable home-brewer > personally home-brewing.
 
-- [https://groups.io/g/MTFHRT/wiki/Ultimate-DIY](https://groups.io/g/MTFHRT/wiki/Ultimate-DIY){.source-link}
+However, if you have no other option, brewing at home from raws is possible. 
+
+A good page for learning about this is this [Homebrewing Wiki Page](https://hrtcafe.net/Homebrew/){.source-link}. 
 
 ## Weight Cycling
 
