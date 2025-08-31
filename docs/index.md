@@ -37,7 +37,7 @@ There are a few main things:
 - Progesterone: optional in transition, can affect mood and maybe breast growth, read [this research post](https://papers.lgbt/papers/prog){.source-link}
 - Other: includes things like SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
 
-Most important is to make sure androgen levels are sufficiently lowered.
+Most important is to make sure androgen levels are sufficiently lowered. Here is a [reasonable timeline of effects](https://papers.lgbt/papers/roadmap){.source-link}
 
 You would be much better off reading a better guide, such as this [Practical Guide to Feminization](https://pghrt.diy/){.source-link} or more detailed specialised websites, guides, including sourcing:
 
@@ -258,6 +258,9 @@ It has been associated with some risks to kidneys, but for short-term use it sho
 
 Typically people take it orally, but there are some reports of taking it topically:
 * [Topical Pio + AH38](https://old.reddit.com/r/DIYCosmeticProcedures/comments/1g4v3wp/topical_pioglitazone_ah38_for_lost_volume/){.source-link}
+
+Here is a research post on pio:
+* [pioglitazone and the role of thiazolidinediones in the case of non-hormone transitional care for male to female transsexuals](https://papers.lgbt/papers/pio){.source-link}
 
 #### Acetyl-Hexapeptide-38 (Adifyline®)
 Adifyline®, topically applied increases PGC-1α expression, stimulating adipogenesis and lipid accumulation as a consequence67 (in a way opposite to hexapeptide-39). Again, the local effect of the drug could be leveraged to selectively increase fat in certain areas and thus improve WHR/fat distribution.
