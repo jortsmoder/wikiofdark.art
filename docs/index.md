@@ -9,9 +9,9 @@ This is a dump of some things I have on looksmaxxing your transition. Some thing
 
 In general, if you are new, the order I would reccomend is approximately:
 
-1. Start permanent hair removal
-2. Do gamete storage
-3. Start HRT
+1. Start trying to do gamete storage
+2. Start permanent hair removal
+3. Once gamete storage done, start HRT
 4. Do voice training
 5. Worry about other things (or possibly not)
 
@@ -19,23 +19,24 @@ The only important part is that you do gamete storage before starting HRT (thoug
 
 Many of the things discussed here are precisely those that are more marginal and have not yet been compiled online, so keep this in mind when reading.
 
-## HRT
+## Hormone Replacement Therapy (HRT)
 
-there is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in very niche things here.
+There is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in more niche things here at the moment.
 
 TL;DR: 
 There are a few main things:
+
 - Estrogen levels: typically raised by taking some of Estradiol, via pills, gels, patches or injection.
 - Androgen levels: typically lowered either by having sufficiently high estrogen levels, or surpressed using an anti-androgen
+- Progesterone: optional in transition, can affect mood and maybe breast growth, read [this research post](https://papers.lgbt/papers/prog){.source-link}
 - Other: includes things like SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
 
-You would be much better off reading a better guide, such as this [Practical Guide to Feminization](https://pghrt.diy/){.source-link}
+You would be much better off reading a better guide, such as this [Practical Guide to Feminization](https://pghrt.diy/){.source-link} or more detailed specialised websites, guides, including sourcing:
 
-### More detailed guides, including sourcing:
-
-- [https://diyhrt.cafe/](https://diyhrt.cafe/])
+- [https://diyhrt.cafe/](https://diycafe.net/)
 - [https://diyhrt.info/](https://diyhrt.info/)
 - [https://diyhrt.wiki/](https://diyhrt.wiki/)
+- [https://transfemscience.org/](https://transfemscience.org/)
 
 ### Home-brewing
 
@@ -217,14 +218,26 @@ I haven't looked into it much.
 
 todo: add info here, or maybe not.
 
-### The Upcycle - Growing the right fat
+### The Upcycle - Growing the right fat (and muscle)
 
 Gaining weight, with the hope that it grows in the "right places"
 
-#### Weight gain supplements
-
 Just like with downcycling, there are a range of supplements that could be used to aid your upcycle…
 
+#### Excercise
+
+This should be obvious. If you aren't doing it, do this first. It is, for the most part, basically free.
+
+If trying to get a wider hips, lower body exercises such as trapbar deadlifts or hip thrusts would help increase hip circumference, and would improve both your waist-to-hip ratio and shoulder-to-hip ratio.
+
+Exercise can reduces waist circumference independent of body-weight change—i.e., you can gain/maintain weight from lean mass while the waist still shrinks (android fat/visceral fat falls).
+
+There are many different influencers who will tell you their own routine. For the most part, do what is easy. I personally reccomend to go to the gym maybe 2x per week, and focus on doing 3 sets of 8-12 reps of up to 2-3 main exercises. This should be sufficient for significant improvement while not taking too much time.
+
+For larger glutes, hip thrust or squats work pretty well. I also like to throw in romanian trap-bar deadlift as it catches most muscles and progress is very visible. It doesn't matter too much, ask your favourite LLM for a simple routine and just follow it for 3 months.
+
+
+### Weight gain supplements
 
 #### Pioglitazone
 "pio" is an anti-diabetic medication that activates PPAR-gamma systemically, reducing insulin resistance, gluconeogenesis and overall blood sugar. High insulin resistance in transgender females is associated with android fat distribution/higher WHR. It has been shown to lower visceral fat and WHR even in patients who’s overall BMI remained the same.
@@ -342,9 +355,9 @@ The most important tips:
 - Limit your alcohol intake and avoid tobacco, as well as hard drugs because they will age the fuck out of you.
 - It also helps to keep an active lifestyle.
 
-#### Suncream
+#### Sunscreen
 
-The single most important thing is also the most boring. You should be applying suncream to your face everyday.
+The single most important thing is also the most boring. You should be applying sunscreen to your face everyday.
 
 - [Sunscreen and prevention of skin aging: a randomized trial](https://pubmed.ncbi.nlm.nih.gov/23732711/){.source-link}
 
@@ -356,20 +369,24 @@ The single most important thing is also the most boring. You should be applying 
 
 >  Clinical evaluations showed that all photoaging parameters improved significantly from baseline as early as Week 12 and the amelioration continued until Week 52. Skin texture, clarity, and mottled and discrete pigmentation were the most improved parameters by the end of the study (40% to 52% improvement from baseline), with 100% of subjects showing improvement in skin clarity and texture
 
-You should wear suncream even if you only stay indoors but next to a window, as UVA is only partially blocked through glass, and can still have effects on aging of skin.
+You should wear sunscreen even if you only stay indoors but next to a window, as UVA is only partially blocked through glass, and can still have effects on aging of skin.
+
+You should likely prefer chemical sunscreen filters (rather than mineral ones). US FDA has banned most of the best sun blocking ingredients, so it is better to get ones not non-US ones. East Asian and Australian SPF products are generally the highest regarded.
+
+Sunscreen protects against UVA (320–400 nm) and UVB (290–320 nm) radiation. 
+
+If you want to really optimise, most sunscreens are quite weak in the 380-400nm range, but there are two options that help here. The first is Iron Oxides, which have the downside of having a tint and thus being visible on the skin. The other option is [Mexoryl 400](https://en.wikipedia.org/wiki/Methoxypropylamino_cyclohexenylidene_ethoxyethylcyanoacetate){.source-link}, which is particularly effective in the 360−400 nm range, but is still under patent by L'Oréal.
+
+Thus, the best 
+
+
+
 
 #### Retinoids
 
 Eg: Retinol, Retialdehyde, Tretinoin
 
 Causes skin to churn more often, and makes it more fresh.
-
-#### Niacinamide, Ceramides, Panthenol
-
-Help when skin barrier is damaged 
-
-* u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
-
 
 #### Matrixyl (palmitoyl peptides)
 Some small, industry-adjacent trials show modest wrinkle improvements; evidence is promising but limited compared with retinoids. Safe to try as an add-on, just keep expectations realistic. 
@@ -383,6 +400,11 @@ Multiple RCT meta-analyses show modest benefits for skin hydration/elasticity af
 
 - [Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10180699/){.source-link}
 
+#### Niacinamide, Ceramides, Panthenol
+
+Help when skin barrier is damaged 
+
+* u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
 
 ### Avoiding scarring
 
@@ -564,6 +586,12 @@ This person tried it and it seemed to work for them:
 
 
 #### Progesterone
+
+[Research post on Progesterone](https://papers.lgbt/papers/prog){.source-link}
+
+> “after 6–12 months” is a reasonable default
+>
+> if your goal is to maximize the ductal scaffold before layering alveolar fullness, wait for budding, then consider progesterone, understanding that its volumetric benefit is unproven and may be subtle or person‑specific
 
 ??? note "Notes on Progesterone"
 
