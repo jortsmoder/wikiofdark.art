@@ -9,9 +9,70 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 def reader_mode(html_content: str) -> str:
+    print("Getting reader mode for HTML", html_content)
+
     doc = Document(html_content)
+    short_title = doc.short_title() or ""
+    title_html = f"<h1>{html.escape(short_title)}</h1>\n" if short_title else ""
+
+    soup = BeautifulSoup(html_content, "html.parser")
+
+    def pick_largest(elements):
+        largest = None
+        max_len = 0
+        for el in elements:
+            text_len = len(el.get_text(separator=" ", strip=True))
+            if text_len > max_len:
+                largest = el
+                max_len = text_len
+        return largest
+
+    candidate = None
+
+    # Prefer <main>
+    mains = soup.find_all("main")
+    if mains:
+        candidate = pick_largest(mains)
+
+    # Then [role="main"]
+    if not candidate:
+        role_mains = soup.select('[role="main"]')
+        if role_mains:
+            candidate = pick_largest(role_mains)
+
+    # Then <article> (prefer itemprop="articleBody" if present)
+    if not candidate:
+        articles = soup.find_all("article")
+        if articles:
+            bodies = []
+            for art in articles:
+                bodies.extend(art.select('[itemprop="articleBody"]'))
+            candidate = pick_largest(bodies) or pick_largest(articles)
+
+    if candidate:
+        # Remove non-content elements inside the candidate
+        for tag in candidate.find_all(["script", "style", "noscript", "svg", "canvas", "form"]):
+            tag.decompose()
+        for tag in candidate.find_all(["header", "footer", "nav", "aside"]):
+            tag.decompose()
+
+        # Normalize lazy-loaded images
+        for img in candidate.find_all("img"):
+            src = img.get("src")
+            if not src or src.startswith("data:"):
+                for attr in ["data-src", "data-original", "data-lazy-src"]:
+                    val = img.get(attr)
+                    if val:
+                        img["src"] = val
+                        break
+            if not img.get("srcset") and img.get("data-srcset"):
+                img["srcset"] = img.get("data-srcset")
+
+        return title_html + str(candidate)
+
+    # Fallback to Readability result
     body = BeautifulSoup(doc.summary(), "html.parser")
-    return f"<h1>{doc.short_title()}</h1>\n{body}"
+    return title_html + str(body)
 
 def is_reddit_url(url: str) -> bool:
     """Check if URL is a Reddit link"""
