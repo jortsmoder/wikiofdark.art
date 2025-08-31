@@ -335,17 +335,53 @@ I generally do not reccomend this. You may be able to achieve a better shape, bu
 
 ## Skin
 
+The most important tips:
+
+- Wear SPF, cover up your skin, and wear hats and sunglasses to limit sun exposure which can cause premature aging.
+- Use Retinol, and Hyaluronic acid for baby skin.
+- Limit your alcohol intake and avoid tobacco, as well as hard drugs because they will age the fuck out of you.
+- It also helps to keep an active lifestyle.
+
+#### Suncream
+
+The single most important thing is also the most boring. You should be applying suncream to your face everyday.
+
+- [Sunscreen and prevention of skin aging: a randomized trial](https://pubmed.ncbi.nlm.nih.gov/23732711/){.source-link}
+
+> regular use of sunscreen compared with discretionary use
+>
+> Skin aging from baseline to the end of the trial was 24% less in the daily sunscreen group than in the discretionary sunscreen group
+
+- [Daily Use of a Facial Broad Spectrum Sunscreen Over One-Year Significantly Improves Clinical Evaluation of Photoaging](https://pubmed.ncbi.nlm.nih.gov/27749441/){.source-link}
+
+>  Clinical evaluations showed that all photoaging parameters improved significantly from baseline as early as Week 12 and the amelioration continued until Week 52. Skin texture, clarity, and mottled and discrete pigmentation were the most improved parameters by the end of the study (40% to 52% improvement from baseline), with 100% of subjects showing improvement in skin clarity and texture
+
+You should wear suncream even if you only stay indoors but next to a window, as UVA is only partially blocked through glass, and can still have effects on aging of skin.
+
 #### Retinoids
 
 Eg: Retinol, Retialdehyde, Tretinoin
 
-Causes skin to churn more often.
+Causes skin to churn more often, and makes it more fresh.
 
 #### Niacinamide, Ceramides, Panthenol
 
 Help when skin barrier is damaged 
 
 * u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
+
+
+#### Matrixyl (palmitoyl peptides)
+Some small, industry-adjacent trials show modest wrinkle improvements; evidence is promising but limited compared with retinoids. Safe to try as an add-on, just keep expectations realistic. 
+
+For example:
+- [see general study on peptides](https://pmc.ncbi.nlm.nih.gov/articles/PMC11762834){.source-link}
+
+
+#### Callogen supplements
+Multiple RCT meta-analyses show modest benefits for skin hydration/elasticity after ~8–12 weeks. Source seems less important than dose and hydrolysis.
+
+- [Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10180699/){.source-link}
 
 
 ### Avoiding scarring
