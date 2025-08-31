@@ -1,15 +1,39 @@
 
 # Wiki of Dark Arts
 
+## What is this?
+
+This is a dump of some things I have on looksmaxxing your transition. Some things are far more researched than others. Some things are way more important, and some things have marginal benefits at best. Some things are much safer than others. Everything is currently a work in progress.
+
+## How should I start?
+
+In general, if you are new, the order I would reccomend is approximately:
+
+1. Start permanent hair removal
+2. Do gamete storage
+3. Start HRT
+4. Do voice training
+5. Worry about other things (or possibly not)
+
+The only important part is that you do gamete storage before starting HRT (though it is possible to do so shortly after starting also). These topics have the most discussion online, and likely this wiki will not have all the information you need about 1 - 4.
+
+Many of the things discussed here are precisely those that are more marginal and have not yet been compiled online, so keep this in mind when reading.
+
 ## HRT
 
 there is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in very niche things here.
 
-### Buying online
+TL;DR: 
+There are a few main things to keep in mind:
+- Estrogen levels: typically raised by taking some of Estradiol, via pills, gels, patches or injection.
+- Androgen levels: typically lowered either by having sufficiently high estrogen levels, or surpressed using an anti-androgen
+- Other: more non-binary options include SERMs - used to reduce breast growth, or DHT blockers - used to reduce male pattern baldness and body hair growth while testosterone is high.
 
-- https://diyhrt.cafe/
-- https://diyhrt.info/
-- https://diyhrt.wiki/
+### More detailed guides, including sourcing:
+
+- [https://diyhrt.cafe/](https://diyhrt.cafe/])
+- [https://diyhrt.info/](https://diyhrt.info/)
+- [https://diyhrt.wiki/](https://diyhrt.wiki/)
 
 ### Home-brewing
 
