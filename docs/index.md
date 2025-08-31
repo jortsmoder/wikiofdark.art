@@ -13,11 +13,11 @@ This site is best viewed on desktop, where source link will open an archived ver
 
 In general, if you are new, the order I would reccomend is approximately:
 
-1. Start trying to do gamete storage
-2. Start permanent hair removal
-3. Once gamete storage done, start HRT
-4. Do voice training
-5. Worry about other things (or possibly not)
+1. Start trying to do [gamete storage](#preserving-fertility-pre-hrt)
+2. Start [permanent hair removal](#body-hair)
+3. Once gamete storage done, [start HRT](#hormone-replacement-therapy-hrt)
+4. Do [voice training](#voice)
+5. Worry about other things (or possibly not, see how things go)
 
 The only important part is that you do gamete storage before starting HRT (though it is possible to do so shortly after starting also). These topics have the most discussion online, and likely this wiki will not have all the information you need about 1 - 4.
 
