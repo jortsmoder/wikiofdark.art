@@ -540,114 +540,19 @@ Main methods are In-Vitro Fertilization (IVF) (incl ICSI), where one does fertil
 Depending on your sperm quality, you will probably need to have multiple storage sessions. You can store anywhere between 1 and ~5 straws in a single session, each typically good for 1 round of IFV, but may need multiple straws for an IUI session. (IUI is typically far less expensive). Typical is 2-3 sessions, but more can also happen.
 
 
-### Where to Store
+### Where to Store Gametes
 
 In places like UK and Ireland, the process is kinda slow. As of 2025, most places in ireland no longer offer male gamete cryopreservation without a doctor's note due to storage shortage. UK is hit-or-miss with clinics, and in my experience you will be waiting months to do it.
 
 There are some good IVF clinics in Spain which are worth considering, such as IVI or Instituto Bernabeu, which are much faster, with the drawback of needing to spend a week or two in Spain.
 
-## methods when trying to preserve fertility
+## Methods when trying to preserve fertility
 
-Some resp
+In general, HRT has the most significant effects. However, if you really require not being on it (eg: for fertlity reasons, such as waiting to do gamete storage, or if temporarily stopping HRT to regain fertility), there are some things you can still do, though generally the effects will be less pronounced.
 
-### Methyl-estradiol-propanoate ( MEP )
+I have read some reports of people applying estrogel on the scalp and washing if off within 5 minutes to have some effect without raising blood estrogen levels too significantly, but there is likely more research that could be done. See link below for some ideas.
 
-* **Skin / fat:** Boosts facial collagen, elastin and hydration in ≈12 weeks; no evidence it shifts deep sub-Q fat.
-* **Hair:** Neutral.
-* **Fertility:** Blood E2, LH and FSH stayed unchanged for 20 weeks in Emepelle trials. ([PubMed][1])
-
----
-
-### 17-α-Estradiol 0.025 % lotion
-
-* **Skin / fat:** Slight sebum reduction; no body-fat redistribution.
-* **Hair:** ↑ hair count & shaft diameter after 4-8 months.
-* **Fertility:** Serum E2 ≤ 30 pmol L⁻¹; T & LH unchanged over 8 months. ([PMC][2])
-
----
-
-### Equol / Genistein 0.5–1 % cream
-
-* **Skin / fat:** Modest ER-β activation improves texture; fat unchanged.
-* **Hair:** In-vitro DHT scavenging; early human data only.
-* **Fertility:** Endocrine-silent at topical doses so far.
-
----
-
-### Clascoterone 7.5 % solution (*Breezula*)
-
-* **Skin / fat:** Cuts sebaceous activity; useful for hormonal acne.
-* **Hair:** \~15 hairs cm² gain at 6 mo in Phase II male AGA trials.
-* **Fertility:** Plasma drug < 5 ng mL⁻¹; no DHT, T or LH change detected. ([PMC][3], [jaad.org][4])
-
----
-
-### Topical Finasteride 0.25 % spray
-
-* **Skin / fat:** Minor sebum drop.
-* **Hair:** Density gains comparable to oral; serum DHT ↓ 25–30 %.
-* **Fertility:** T and semen normal over 24 wks; long-term data pending. ([PMC][5], [PubMed][6])
-
----
-
-### Spironolactone 5 % lotion
-
-* **Skin / fat:** Potent oil control.
-* **Hair:** Small studies show thicker hair with twice-daily use.
-* **Fertility:** Plasma drug sub-ng; no measurable sex-hormone shift to date. ([PMC][7], [PubMed][8])
-
----
-
-### GHK-Cu peptide 0.05–0.1 % serum
-
-* **Skin / fat:** Collagen & elastin up-regulation; no fat effect.
-* **Hair:** Thickens shafts, signals follicle repair.
-* **Fertility:** Hormone-neutral. ([PMC][9])
-
----
-
-### Hyaluronic-acid cheek fillers
-
-* **Skin / fat:** Instantly add mid-face volume, mimicking feminine fat pads; MRI shows persistence 2–15 yrs.
-* **Hair:** None.
-* **Fertility:** None. ([PubMed][10], [PMC][11])
-
----
-
-### Autologous facial fat grafting
-
-* **Skin / fat:** Permanent or long-lasting cheek & jaw softening with your own tissue.
-* **Hair:** None.
-* **Fertility:** None. ([PMC][12])
-
----
-
-### Systemic estradiol patch / tablet (25–100 µg day⁻¹)
-
-* **Skin / fat:** Only proven non-surgical route to true gluteo-femoral (“hour-glass”) fat shift.
-* **Hair:** Lowers scalp androgen load, supporting growth.
-* **Fertility:** Predictable LH/FSH suppression and spermatogenesis risk—bank sperm or use hCG co-therapy if chosen. ([PMC][13])
-
----
-
-**Key take-away:**
-Topical soft-estrogens, peptide serums and modern anti-androgen lotions can soften skin and guard hair with minimal testosterone loss—but **distinctly feminine body-fat curves still require either systemic estradiol or physical volume (fillers / fat grafts), both of which spare male fertility far better than full-dose systemic estrogen.**
-
-[1]: https://pubmed.ncbi.nlm.nih.gov/31860210/?utm_source=chatgpt.com "Evaluation of Efficacy of a Skin Care Regimen Containing Methyl ..."
-[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3412238/?utm_source=chatgpt.com "The Efficacy and Safety of 17α-Estradiol (Ell-Cranell® ..."
-[3]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10173235/?utm_source=chatgpt.com "Androgenetic Alopecia: Therapy Update - PMC"
-[4]: https://www.jaad.org/article/S0190-9622%2819%2931086-2/fulltext?utm_source=chatgpt.com "A summary of in vitro, phase I, and phase II studies ..."
-[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9297965/?utm_source=chatgpt.com "Efficacy and safety of topical finasteride spray solution for male ..."
-[6]: https://pubmed.ncbi.nlm.nih.gov/34634163/?utm_source=chatgpt.com "Efficacy and safety of topical finasteride spray solution for male ..."
-[7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10010138/?utm_source=chatgpt.com "The Efficacy and Safety of Oral and Topical Spironolactone in ..."
-[8]: https://pubmed.ncbi.nlm.nih.gov/36039391/?utm_source=chatgpt.com "Dermoscopic evaluation of the efficacy of combination of topical ..."
-[9]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6073405/?utm_source=chatgpt.com "Regenerative and Protective Actions of the GHK-Cu ..."
-[10]: https://pubmed.ncbi.nlm.nih.gov/39015357/?utm_source=chatgpt.com "Hyaluronic Acid Filler Longevity in the Mid-face: A Review ..."
-[11]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9007185/?utm_source=chatgpt.com "Long-term MRI Follow-up of Hyaluronic Acid Dermal Filler"
-[12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11249923/?utm_source=chatgpt.com "Improving the Retention of Low-Volume Autologous Fat ..."
-[13]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6795075/?utm_source=chatgpt.com "Determinants of body fat distribution in humans may ..."
-
-
+[Some ideas from ChatGPT](/sources/chatgpt_no_hrt.html){.source-link}
 
 ## Contributing
 
