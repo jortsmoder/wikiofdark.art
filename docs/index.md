@@ -66,11 +66,14 @@ In the down cycle, the aim is to have a caloric deficit, and hopefully pull more
 
 Depending on the person, it may be difficult to keep a caloric deficit. There are some things that can help with this:
 
-### Caloric Deficit through Diets
 
-- different diets seem to work for different people. todo: add more detail
+### Maintining a Caloric Deficit
 
-### Caloric Defficit with assistance of supplements
+#### Caloric Deficit through Diets
+
+Different diets seem to work for different people There is a lot of writing on this, do whatever works for you to maintain a deficit. 
+
+Waterfasting works for some (ie: do not eat for multiple days in a row, only have water and micronutrient supplements). Potato diet works for others. Keto diet works for others again. Whole food plant based works for different people. This has a lot of variation for different people.
 
 #### Water-soluble fibres
 such as Psyllium Husk or Glucomannan are effective at filling up the stomach/digestive tract and promoting a feeling of fullness, reducing appetite and promoting weight loss. 
@@ -78,10 +81,13 @@ such as Psyllium Husk or Glucomannan are effective at filling up the stomach/dig
 #### GLP-1 Agonists
 There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, dulaglutide, exenatide, and tirzepatide. These promote weight loss through increasing insulin release, decreasing insulin resistance and decreasing excessive glucagon release. Their biggest downsides include very high price and the only viable RoA being injection.
 
+#### Corset diet. 
+
+Wearing a corset can also reduce appetite. You can do this in addition to [Waist Training](#waist-training) to also further reduce wasit-to-hip ratio in the mean time. See section that for more info.
+
 ### Down cyle - Burning the right fat
 
 #### Aminophylline
-
 
 Aminophylline is a compound of the bronchodilator theophylline with ethylenediamine in a 2:1 ratio. Its most common use is in the treatment of airway obstruction from asthma or COPD. It has been shown to inhibit dual phosphodiesterase (PDE) which causes cAMP to surge, and thus increase lipolysis.
 
@@ -192,13 +198,6 @@ Some examples:
 > Thighs: -0.8cm (vs −0.3cm)
 > Hips: −0.8cm (vs −0.4cm)
 
-
-#### Radiofrequency Electric Field
-
-I haven't looked into it much.
-
-- [Some study showing it made a difference](https://pubmed.ncbi.nlm.nih.gov/27060936/){.source-link}
-
 #### Selective Muscle training
 Strength training of specific muscles (e.g. the abdominals) prior to endurance training (e.g. a long cardio session) might be able to selectively burn fat in the corresponding area – this could be useful when trying to achieve a lower WHR.
 
@@ -207,8 +206,16 @@ Strength training of specific muscles (e.g. the abdominals) prior to endurance t
 
 is an orally bioavailable form of carnitine which is involved in the carnitine shuttle and is vital to fat metabolism. Supplementation has been shown to improve rates of fat metabolism and weight loss.
 
+
+#### Radiofrequency Electric Field
+
+I haven't looked into it much.
+
+- [Some study showing it made a difference](https://pubmed.ncbi.nlm.nih.gov/27060936/){.source-link}
+
 #### Other things NOT worth considering:
 
+todo: add info here, or maybe not.
 
 ### The Upcycle - Growing the right fat
 
@@ -280,16 +287,28 @@ As another option, if looking particularly to improve WHR or get a more hour-gla
 
 Here are some good resources on this:
 
-- [4tran puppygirl's Corset Training Infodump](https://old.reddit.com/r/4tran4/comments/1ewl4c0/corset_training_infodump/){.source-link}
+- [4tran puppygirl's partner's Corset Training Infodump](https://old.reddit.com/r/4tran4/comments/1ewl4c0/corset_training_infodump/){.source-link}
 
-- [Lucy corsettery FAQ](https://lucycorsetry.com/faq-contact/){.source-link}, or see her [Waist training blog posts](https://lucycorsetry.com/waist-training/)
+- [Lucy corsettery FAQ](https://lucycorsetry.com/faq-contact/){.source-link}.
+- See Lucy corsettery [waist training blog posts](https://lucycorsetry.com/waist-training/), copied here for convenience:
+    - [“Waist Cinchers” VS Corsets: Which Should You Start With?](https://lucycorsetry.com/2013/08/27/waist-cinchers-vs-corsets-which-should-you-start-with/){.source-link}
+    - [What is the BEST corset for waist training / tight lacing?](https://lucycorsetry.com/2013/09/24/best-corset-for-waist-training/){.source-link}
+    - [Waist Training vs Tight Lacing – what’s the difference?](https://lucycorsetry.com/2013/10/13/waist-training-vs-tight-lacing/){.source-link}
+    - [WAIST TRAINING RESULTS: How long should it take?](https://lucycorsetry.com/2014/05/26/waist-training-how-long-before-i-see-results/){.source-link}
+    - [How to Waist Train: Comparing Corset Training Methods](https://lucycorsetry.com/2014/05/30/how-to-waist-train-comparing-corset-training-methods/){.source-link}
+    - [Weighing in on “The Corset Diet”](https://lucycorsetry.com/2014/06/02/weighing-in-on-the-corset-diet/){.source-link}
+    - [Advanced Breaking in your Corset (Intuitive Seasoning)](https://lucycorsetry.com/2014/10/24/advanced-breaking-in-your-corset-intuitive-seasoning/){.source-link}
+    - [Why I No Longer Recommend Front-Lacing Corsets](https://lucycorsetry.com/2018/04/17/why-i-no-longer-recommend-front-lacing-corsets/){.source-link}
+
 
 #### Dangerous Darth Method
 This is a subtype of "waist training".
 
-This method, labelled dangerous, by darth, involves following practices that are actively reccomended against in the FtM community when binding. may cause pain, costochondritis, cracked or fractured ribs, reduced lung capacity, lung or kidney damage from floating ribs etc.
+This method, labelled dangerous, by darth, involves following practices that are actively reccomended against in the FtM community when binding. may cause pain, costochondritis, cracked or fractured ribs, reduced lung capacity, lung or kidney damage from floating ribs etc. 
 
-[Darthemofan Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
+I have done so, and found that eventually I had some pain, and stopped, but I got some good results in the mean time.
+
+For original information, see [Darthemofan Method Writeup](https://old.reddit.com/r/estrogel/comments/iod975/unrelated_darth_dangerous_experiments_diy_shrink/){ .source-link }
 
 > * starting: 32" underbust
 > * after a "few weeks": 29.5" immediately when removed, 30.5 after an hour
