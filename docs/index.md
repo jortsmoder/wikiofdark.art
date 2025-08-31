@@ -37,7 +37,7 @@ Most important is to make sure androgen levels are sufficiently lowered.
 
 You would be much better off reading a better guide, such as this [Practical Guide to Feminization](https://pghrt.diy/){.source-link} or more detailed specialised websites, guides, including sourcing:
 
-- [https://diyhrt.cafe/](https://diycafe.net/)
+- [https://hrtcafe.net/](https://hrtcafe.net/)
 - [https://diyhrt.info/](https://diyhrt.info/)
 - [https://diyhrt.wiki/](https://diyhrt.wiki/)
 - [https://transfemscience.org/](https://transfemscience.org/)
