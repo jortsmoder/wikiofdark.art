@@ -301,6 +301,10 @@ Some recommend buying sarsapogenin directly:
 #### Leucine and Argenine 
 Leucine and Argenine have been shown to be effective at activating mTOR, a kinase that stimulates lipid synthesis and cell growth. I haven't looked deeply into this.
 
+#### Growth Hormones and Various Peptides
+
+There exist various other peptides and growth hormone related products that may help. I do not feel confident reccomending these as I have not read up on them (todo.) See the [section on these](#other-chemicals) for more info.
+
 ### Things to Avoid
 
 #### Alcohol Consumption
@@ -505,9 +509,9 @@ Most permanent method, involves actually killing the hair follicles with electri
 
 ## Breast Growth
 
-#### Adifyline and Volufiline
+#### Adifyline and Volufiline, Selective Fat Depositing
 
-See sections above
+See most [sections on upcycling supplements](#weight-gain-supplements) above.
 
 #### Stop and Go method
 
