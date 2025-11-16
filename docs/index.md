@@ -60,7 +60,7 @@ Weight Cycling is the process of repetitively gaining and subsequently losing we
 
 Typically when on HRT, it takes a long time for fat to redistribute to the desired places. The turnover rate for adipocyte cells at a constant bodyweight is about 10% per year, with half of the adipocytes being replaced every ~8.3 years on average. 
 
-Some have suggested that weight cycling when on HRT can lead to getting results sooner.
+This naive estimate is misleading, and studies seem to find redistribution effects way earlier than you'd expect if it acted via turnover. But some still suggest that weight cycling when on HRT can lead to getting results sooner.
 
 Links:
 
