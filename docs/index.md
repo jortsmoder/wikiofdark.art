@@ -50,7 +50,8 @@ You would be much better off reading a better guide, such as this [Practical Gui
 
 You will probably lose fertility if you start HRT. If you potentially want to have kids, you should probably do gamete storage prior to starting. (If starting old enough, it is usually possible to regain fertility by temporarily stopping hrt for 3-6months but sometimes it takes longer). 
 
-Read some [notes here](/sources/_gamete_storage.html) if interested.
+You can read some [vague notes here](/sources/_gamete_storage.html){.source-link} if going down this path.
+If you are doing gamete storage, you may be able to get some limited feminizing effects before storage (see [some ideas from ChatGPT](/sources/chatgpt_no_hrt.html){.source-link}), or doing [Waist training](#waist-training) or similar, but generally most results come from HRT.
 
 ### Home-brewing
 
