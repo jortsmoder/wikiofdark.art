@@ -13,7 +13,7 @@ This site is best viewed on desktop, where source link will open an archived ver
 
 In general, if you are new, the order I would reccomend is approximately:
 
-1. Start trying to do [gamete storage](#preserving-fertility-pre-hrt)
+1. Start trying to do [gamete storage](#gamete-storage) (optional)
 2. Start [permanent hair removal](#body-hair)
 3. Once gamete storage done, [start HRT](#hormone-replacement-therapy-hrt)
 4. Do [voice training](#voice)
@@ -45,6 +45,12 @@ You would be much better off reading a better guide, such as this [Practical Gui
 - [https://diyhrt.info/](https://diyhrt.info/)
 - [https://diyhrt.wiki/](https://diyhrt.wiki/)
 - [https://transfemscience.org/](https://transfemscience.org/)
+
+#### Gamete storage
+
+You will probably lose fertility if you start HRT. If you potentially want to have kids, you should probably do gamete storage prior to starting. (If starting old enough, it is usually possible to regain fertility by temporarily stopping hrt for 3-6months but sometimes it takes longer). 
+
+Read some [notes here](/sources/_gamete_storage.html) if interested.
 
 ### Home-brewing
 
@@ -258,8 +264,10 @@ For larger glutes, hip thrust or squats work pretty well. I also like to throw i
 
 ### Weight gain supplements
 
-#### Pioglitazone
-"pio" is an anti-diabetic medication that activates PPAR-gamma systemically, reducing insulin resistance, gluconeogenesis and overall blood sugar. High insulin resistance in transgender females is associated with android fat distribution/higher WHR. It has been shown to lower visceral fat and WHR even in patients who’s overall BMI remained the same.
+#### Thiazolidinediones (TZDs)
+One can take TZDs, most commonly Pioglitazone or "pio", though there exists others such as Rosiglitazone.
+
+"Pio" is an anti-diabetic medication that activates PPAR-gamma systemically, reducing insulin resistance, gluconeogenesis and overall blood sugar. High insulin resistance in transgender females is associated with android fat distribution/higher WHR. It has been shown to lower visceral fat and WHR even in patients who’s overall BMI remained the same.
 
 It seems to protect subcutaneous fat in a way similar to estrogen. There has even been one documented case of pioglitazone use to achieve female fat distribution in a transgender patient in the medical literature. The drug would probably be beneficial regardless of whether you are cycling or not.
 
@@ -375,7 +383,9 @@ See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_ri
 
 #### Rib removal surgery
 
-I generally do not reccomend this. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. 
+I generally do not reccomend this unless you really want it. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. You also are likely to get significant scars on your torso. The shape you get is probably better than you would get from waist narrowing surgery.
+
+#### 
 
 ### Shoulders
 
@@ -475,6 +485,16 @@ Help when skin barrier is damaged
 
 * u/darthemofan: ["What to do when you've damaged your skin barrier?"](https://old.reddit.com/r/skinwhitening/comments/1bet4iv/what_to_do_when_youve_damaged_your_skin_barrier/){.source-link}
 
+#### laser resurfacing
+todo: write this
+
+#### microneedling
+todo: write this
+
+#### chemical peels
+(eg: TCA Cross)
+todo: write this
+
 #### Red light therapy
 
 Some early results says it helps.
@@ -511,6 +531,7 @@ Here is a relatively good starting guide to FFS:
 FFS can get quite expensive quite quickly, and there are some surgeons more reputable than others, but no obvious picks. It is difficult to find surgeons who are well known to be good, have reasonable waiting times, and have reasonably prices. One must trade off on some of these. It can also be difficult to compare, as it is much more custom for different people.
 
 
+
 ## Body Hair
 
 There are a few main methods of hair removal:
@@ -529,7 +550,9 @@ This can lighten and thin out the hair somewhat, also temporary
 
 #### Laser Hair Removal
 
-This is more peramanent than other methods, and involves damaging your hair follicles with lasers. Typical is to do ~8 sessions spaced apart by 4 weeks. Depends a lot on skin type and hair colour. Dark hair + light skin works the best. 
+This is more peramanent than other methods. It involves shining very high intensity light at your skin to damage your hair follicles with lasers.
+Typical starter pack is to do ~8 sessions spaced apart by 4 weeks (though for many it takes much longer, 12-20 sessions).
+Quality of results depends a lot on skin type and hair colour. Generally, dark hair + light skin works the best.
 
 Still requires top ups after the 8 sessions.
 
@@ -538,9 +561,16 @@ Most find the pain tollerable / not that bad, but if you have particularly sensi
 - [reddit post on anesthetic creams](https://old.reddit.com/r/asktransgender/comments/ewhy0b/psa_if_you_do_laser_or_electrolysis_get/){.source-link}
 - [reddit post on microneedling also discussing anesthetic creams](https://old.reddit.com/r/vindicta30plus/comments/1blaz1l/microneedling_a_review_and_how_do_to_that_at_home/){.source-link}
 
+<!-- probably worth adding some more details here -->
+
 #### Electrolysis
 
-Most permanent method, involves actually killing the hair follicles with electricity. Most expensive and painful option.
+Most permanent method, involves actually killing the hair follicles with electricity. Most expensive and painful option. Usually one goes to a clinic, and pays in intervals of, eg, 15 minutes.
+I have found a typical pace to be an average 1 hair follicle per second, so with 1000s of hair follicles on the face it can take a long time. 
+
+There are sketchy ways to [do it DIY for cheap](http://lena.kiev.ua/guestbook/#570){.source-link} if that is your kind of thing.
+
+Depending on your pain tolerance, you will probably want to apply either EMLA (lidocaine 5%) or AMETOP (tetracaine 4%) numbing cream, in addition to taking something like ibuprofen. It is possible to get stronger creams such as Pliaglis (7% lidocaine + 7% tetracaine) but this often requires a prescription.
 
 ## Breast Growth
 
@@ -566,30 +596,6 @@ This person tried it and it seemed to work for them:
 > “after 6–12 months” is a reasonable default
 >
 > if your goal is to maximize the ductal scaffold before layering alveolar fullness, wait for budding, then consider progesterone, understanding that its volumetric benefit is unproven and may be subtle or person‑specific
-
-??? note "Notes on Progesterone from Lena (groups.io DIYHRT)"
-
-    > 1. Injectable progesterone is short-acting, must be injected daily.
-    > Oral progesterone is ineffective because most of it is converted to allopregnanolone which common blood tests confuse with progesterone.
-    > Neovagina absorbs meds not as well as a cis-woman's vagina.
-    > Most progestins give various side effects.
-    > Hydroxyprogesterone caproate is not bioidentical.
-    > It's not converted in the body to progesterone (unlike estradiol valerate and estradiol enanthate).
-    > 
-    > 2. Progesterone decreases rate of synthesis of estrogen receptors.
-    > Cis-women are supposed to benefit from that, but goals of MtF are opposite.
-    >
-    > 3. Estradiol develops ducts in milk glands, progesterone develops alveoles.
-    > Most of breast volume is ducts and connective tissue between them.
-    > If an alveole formed (at the end of a duct), that duct will not grow in length anymore. > So, progesterone and Androcur can stunt breast growth.
-    >
-    > 4. Progestogens increase risk of prolactinoma and meningioma (brain tumors).
-    > Progestogens (especially cyproterone acetate), not estrogens (despite mistaken rumor among medical professionals).
-    >
-    > I advise NOT to add progesterone for at least 3 years since starting estradiol injections at least 40 mg/month (not since the very beginning of HRT).
-    >
-    > Or never take progestogens. In cases of complete androgen insensitivity (CAIS),
-    > XY women develop rather spectacularly feminine secondary sexual characteristics though nothing in their bodies makes progesterone.
 
 #### Other
 
@@ -749,44 +755,6 @@ If cut, there is potential research on avoiding scar tissue from forming.
 Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
 
 * Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
-
-## Preserving Fertility pre-HRT
-
-### Sperm Cryopreservation
-
-#### Ensuring quality
-
-- Avoid heat at all costs. No to Sauna/Hottub. 
-- Better to do in winter or spring, to avoid heat.
-- Take zinc supplements
-- Take omega 3 supplements
-- Generally, require 2-4 days of abstinance before storage sessions.
-- You usually need to be tested for STIs. 
-
-#### Basics of Storage
-
-Depending on where you are from, it can be annoying to freeze and store gametes. Typically this is done by finding an IVF clinic that allows storing of sperm. It is possible to move sperm between clinics, but generally it is probably better to choose somewhere with good success rates. Transfer between countries can be difficult. You will generally need to pay an annual storage fee on the order of €200-400/year depending on the place.
-
-The success rates are usually measured as pregnancies in <35yo women, <40yo women, and >40yo women. In a decent place, rated for <35to women are usually around a ~50% chance. Each place likes to measure and report different things though. Also note that most people who do IVF do so because they have fertlity issues, so most likely your rate of success will be higher. If a clinic has "donor success rates" that is usually more representitive. These success rates can be improved with genetic screening methods like PGT-A, and some nombers include it and some don't, but is getting more common (though also usually costs extra).
-
-Main methods are In-Vitro Fertilization (IVF) (incl ICSI), where one does fertilisation in vitro, and In-Utero Insemination (IUI), more affordable but less reliable.
-
-Depending on your sperm quality, you will probably need to have multiple storage sessions. You can store anywhere between 1 and ~5 straws in a single session, each typically good for 1 round of IFV, but may need multiple straws for an IUI session. (IUI is typically far less expensive). Typical is 2-3 sessions, but more can also happen.
-
-
-### Where to Store Gametes
-
-In places like UK and Ireland, the process is kinda slow. As of 2025, most places in ireland no longer offer male gamete cryopreservation without a doctor's note due to storage shortage. UK is hit-or-miss with clinics, and in my experience you will be waiting months to do it.
-
-There are some good IVF clinics in Spain which are worth considering, such as IVI or Instituto Bernabeu, which are much faster, with the drawback of needing to spend a week or two in Spain.
-
-## Methods when trying to preserve fertility
-
-In general, HRT has the most significant effects. However, if you really require not being on it (eg: for fertlity reasons, such as waiting to do gamete storage, or if temporarily stopping HRT to regain fertility), there are some things you can still do, though generally the effects will be less pronounced.
-
-I have read some reports of people applying estrogel on the scalp and washing if off within 5 minutes to have some effect without raising blood estrogen levels too significantly, but there is likely more research that could be done. See link below for some ideas.
-
-[Some ideas from ChatGPT](/sources/chatgpt_no_hrt.html){.source-link}
 
 ## Contributing
 
