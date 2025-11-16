@@ -88,7 +88,18 @@ Waterfasting works for some (ie: do not eat for multiple days in a row, only hav
 such as Psyllium Husk or Glucomannan are effective at filling up the stomach/digestive tract and promoting a feeling of fullness, reducing appetite and promoting weight loss. 
 
 #### GLP-1 Agonists
-There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, dulaglutide, exenatide, and tirzepatide. These promote weight loss through increasing insulin release, decreasing insulin resistance and decreasing excessive glucagon release. Their biggest downsides include very high price and the only viable RoA being injection.
+There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, dulaglutide, exenatide, and tirzepatide. These promote weight loss through increasing insulin release, decreasing insulin resistance and decreasing excessive glucagon release. Their biggest downsides include very high price if gotten through traditional medical channels, and the only viable method of administration being injection. My vibe-based understanding is that newer drugs are strictly better, and mostly either get fewer side effects for similar results, or get similar side effects for better results. Read more in links
+
+Here are some guides:
+
+- [Coparision of sources of GLP Drugs](https://www.finnrick.com/)
+- [Long post discussing GLP Drugs](https://www.cremieux.xyz/p/how-to-get-cheap-ozempic){.source-link}
+- [Sleep, Diet, Exercise and GLP-1 Drugs](https://thezvi.substack.com/p/sleep-diet-exercise-and-glp-1-drugs){.source-link}
+
+For some discussion on people's experiences, you can read online. Read for example:
+
+- [30 days on retatrutide](https://www.lesswrong.com/posts/mLvek6a9G86EnhJqH/30-days-of-retatrutide){.source-link}
+- [a 9-week trip on retatrutide](https://www.lesswrong.com/posts/J8nvbu5AFqR5ysSDR/a-9-week-trip-on-retatrutide){.source-link}
 
 #### Corset diet. 
 
