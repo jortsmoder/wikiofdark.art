@@ -638,7 +638,7 @@ If wanting permanent results with less voice training, surgery is an option. Not
 
 In addition, one will sitll be required to do some amount of voice training even if you get surgery, otherwise your voice will sound somewhat unnatrual.
 
-From Reddit, it seems like Yeson Voice Center in South Korea is the best place to get it done.
+From Reddit, it seems like [Yeson Voice Center](https://us.yesonvc.com/page/2_4_1.php) in South Korea is the best place to get it done.
 
 Here is an overview of some of the main methods.
 
