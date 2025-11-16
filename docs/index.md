@@ -11,7 +11,7 @@ This site is best viewed on desktop, where source link will open an archived ver
 
 ## How should I start?
 
-In general, if you are new, the order I would reccomend is approximately:
+In general, if you are new, the order I would recommend is approximately:
 
 1. Start trying to do [gamete storage](#gamete-storage) (optional)
 2. Start [permanent hair removal](#body-hair)
