@@ -84,12 +84,12 @@ Links:
 
 In the down cycle, the aim is to have a caloric deficit, and hopefully pull more fat from "undesired places" rather than from relatively desireable places.
 
-### Maintining a caloric deficit
+### Maintaining a caloric deficit
 
 Depending on the person, it may be difficult to keep a caloric deficit. There are some things that can help with this:
 
 
-### Maintining a Caloric Deficit
+### Maintaining a Caloric Deficit
 
 #### Caloric Deficit through Diets
 
@@ -105,7 +105,7 @@ There are various GLP-1 receptor agonists drugs like semaglutide, liraglutide, d
 
 Here are some guides:
 
-- [Coparision of sources of GLP Drugs](https://www.finnrick.com/)
+- [Comparison of sources of GLP Drugs](https://www.finnrick.com/)
 - [Long post discussing GLP Drugs](https://www.cremieux.xyz/p/how-to-get-cheap-ozempic){.source-link}
 - [Sleep, Diet, Exercise and GLP-1 Drugs](https://thezvi.substack.com/p/sleep-diet-exercise-and-glp-1-drugs){.source-link}
 
@@ -116,7 +116,7 @@ For some discussion on people's experiences, you can read online. Read for examp
 
 #### Corset diet. 
 
-Wearing a corset can also reduce appetite. You can do this in addition to [Waist Training](#waist-training) to also further reduce wasit-to-hip ratio in the mean time. See section that for more info.
+Wearing a corset can also reduce appetite. You can do this in addition to [Waist Training](#waist-training) to also further reduce waist-to-hip ratio in the mean time. See section that for more info.
 
 ### Down cyle - Burning the right fat
 
@@ -264,7 +264,7 @@ If trying to get a wider hips, lower body exercises such as trapbar deadlifts or
 
 Exercise can reduces waist circumference independent of body-weight change—i.e., you can gain/maintain weight from lean mass while the waist still shrinks (android fat/visceral fat falls).
 
-There are many different influencers who will tell you their own routine. For the most part, do what is easy. I personally reccomend to go to the gym maybe 2x per week, and focus on doing 3 sets of 8-12 reps of up to 2-3 main exercises. This should be sufficient for significant improvement while not taking too much time.
+There are many different influencers who will tell you their own routine. For the most part, do what is easy. I personally recommend to go to the gym maybe 2x per week, and focus on doing 3 sets of 8-12 reps of up to 2-3 main exercises. This should be sufficient for significant improvement while not taking too much time.
 
 For larger glutes, hip thrust or squats work pretty well. I also like to throw in romanian trap-bar deadlift as it catches most muscles and progress is very visible. It doesn't matter too much, ask your favourite LLM for a simple routine and just follow it for 3 months.
 
