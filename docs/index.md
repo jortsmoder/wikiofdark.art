@@ -539,7 +539,9 @@ FFS can get quite expensive quite quickly, and there are some surgeons more repu
 
 Here is a non-exhaustive list of surgeons that are talked about sometimes. My research in this area is relatively non-exhastative so DYOR and maybe update this.
 
-# 
+#### FFS Surgeons
+
+Some famous ones are DB, Keojampa, Mardirossian, Harrison Lee. See [reddit discussion on their styles](https://old.reddit.com/r/Transgender_Surgeries/comments/1c6dw4j/comment/l018xdj/){.source-link}. In Europe, QQ seems to be the current meta, some are happy with FT but doesn't seem worth the cost. There are others also I guess. I probably should write a better list some time. 
 
 ## Body Hair
 
