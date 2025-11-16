@@ -23,6 +23,11 @@ The only important part is that you do gamete storage before starting HRT (thoug
 
 Many of the things discussed here are precisely those that are more marginal and have not yet been compiled online, so keep this in mind when reading.
 
+#### Updating this website
+
+if you have suggestions, you can make a pull request on [https://git.wikiofdark.art/jorts/wiki](https://git.wikiofdark.art/jorts/wiki)
+
+
 ## Hormone Replacement Therapy (HRT)
 
 There is plenty of info on E and AAs and the like online. Info can be added here, but I am interested in more niche things here at the moment.
@@ -49,6 +54,7 @@ You would be much better off reading a better guide, such as this [Practical Gui
 #### Gamete storage
 
 You will probably lose fertility if you start HRT. If you potentially want to have kids, you should probably do gamete storage prior to starting. (If starting old enough, it is usually possible to regain fertility by temporarily stopping hrt for 3-6months but sometimes it takes longer). 
+Alternatively, you can sometimes preserve fertility if doing bicalutamide mono-therapy (results unclear).
 
 You can read some [vague notes here](/sources/_gamete_storage.html){.source-link} if going down this path.
 If you are doing gamete storage, you may be able to get some limited feminizing effects before storage (see [some ideas from ChatGPT](/sources/chatgpt_no_hrt.html){.source-link}), or doing [Waist training](#waist-training) or similar, but generally most results come from HRT.
@@ -531,7 +537,9 @@ Here is a relatively good starting guide to FFS:
 
 FFS can get quite expensive quite quickly, and there are some surgeons more reputable than others, but no obvious picks. It is difficult to find surgeons who are well known to be good, have reasonable waiting times, and have reasonably prices. One must trade off on some of these. It can also be difficult to compare, as it is much more custom for different people.
 
+Here is a non-exhaustive list of surgeons that are talked about sometimes. My research in this area is relatively non-exhastative so DYOR and maybe update this.
 
+# 
 
 ## Body Hair
 
@@ -598,7 +606,11 @@ This person tried it and it seemed to work for them:
 >
 > if your goal is to maximize the ductal scaffold before layering alveolar fullness, wait for budding, then consider progesterone, understanding that its volumetric benefit is unproven and may be subtle or person‑specific
 
-#### Other
+### Breast Augmentation
+
+If not getting good results naturally, or not quickly enough, it is possible to get do various kinds of breast augmentation (BA) surgery.
+
+todo: write more here
 
 ## Voice
 
@@ -759,4 +771,4 @@ Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but
 
 ## Contributing
 
-To contibute, make an issue on git: [https://git.wikiofdark.art/](https://git.wikiofdark.art/)
+To contibute, make an issue on git: [https://git.wikiofdark.art/jorts/wiki](https://git.wikiofdark.art/jorts/wiki)
