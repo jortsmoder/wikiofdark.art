@@ -362,7 +362,7 @@ Here are some good resources on this:
 
 
 #### Dangerous Darth Method
-This is a subtype of "waist training".
+This is a subtype of "waist training" but for underbust.
 
 This method, labelled dangerous, by darth, involves following practices that are actively reccomended against in the FtM community when binding. may cause pain, costochondritis, cracked or fractured ribs, reduced lung capacity, lung or kidney damage from floating ribs etc. 
 
@@ -390,9 +390,13 @@ See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_ri
 
 #### Rib removal surgery
 
-I generally do not reccomend this unless you really want it. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. You also are likely to get significant scars on your torso. The shape you get is probably better than you would get from waist narrowing surgery.
+On vibes I do not reccomend this unless you really want it. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. You also are likely to get significant scars on your torso. The shape you get is probably better than you would get from waist narrowing surgery.
 
-#### 
+#### Costal cartilage reduction
+
+If wanting to surgically alter underbust, you can do a Costal cartilage reduction / rib osteotomies. Procedures like Ravitch Procedure were mostly invented for people with pectus excavatum (concave chest), and are quite rare to do for cosmetic reasons, and likely quite expensive.
+
+There is [some discussion of this on reddit](https://old.reddit.com/r/4tran4/comments/1ovhl9b/this_surgery_for_pectus_excavatum_could_possibly/){.source-link} but it's quite uncommon. The only person who seems to do it is Dr Leif Rogers.
 
 ### Shoulders
 
