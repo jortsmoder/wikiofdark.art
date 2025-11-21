@@ -73,7 +73,7 @@ Weight Cycling is the process of repetitively gaining and subsequently losing we
 
 Typically when on HRT, it takes a long time for fat to redistribute to the desired places. The turnover rate for adipocyte cells at a constant bodyweight is about 10% per year, with half of the adipocytes being replaced every ~8.3 years on average. 
 
-This naive estimate is misleading, and studies seem to find redistribution effects way earlier than you'd expect if it acted via turnover. But some still suggest that weight cycling when on HRT can lead to getting results sooner.
+This naive estimate is misleading, and studies seem to find redistribution effects way earlier than you'd expect if it acted via turnover. (People often gain weight after starting HRT so this may accout for some of this). Some still suggest that weight cycling when on HRT can lead to getting results sooner.
 
 Links:
 
@@ -274,6 +274,7 @@ For larger glutes, hip thrust or squats work pretty well. I also like to throw i
 #### Thiazolidinediones (TZDs)
 One can take TZDs, most commonly Pioglitazone or "pio", though there exists others such as Rosiglitazone.
 
+##### Pioglitazone
 "Pio" is an anti-diabetic medication that activates PPAR-gamma systemically, reducing insulin resistance, gluconeogenesis and overall blood sugar. High insulin resistance in transgender females is associated with android fat distribution/higher WHR. It has been shown to lower visceral fat and WHR even in patients who’s overall BMI remained the same.
 
 It seems to protect subcutaneous fat in a way similar to estrogen. There has even been one documented case of pioglitazone use to achieve female fat distribution in a transgender patient in the medical literature. The drug would probably be beneficial regardless of whether you are cycling or not.
