@@ -46,7 +46,7 @@ Most important is to make sure androgen levels are sufficiently lowered. Here is
 
 You would be much better off reading a better guide, such as this [Practical Guide to Feminization](https://pghrt.diy/){.source-link} or more detailed specialised websites, guides, including sourcing:
 
-- [https://hrtcafe.net/](https://hrtcafe.net/)
+- [https://diyhrt.market/](https://diyhrt.market/)
 - [https://diyhrt.info/](https://diyhrt.info/)
 - [https://diyhrt.wiki/](https://diyhrt.wiki/)
 - [https://transfemscience.org/](https://transfemscience.org/)
@@ -397,7 +397,7 @@ On vibes I do not reccomend this unless you really want it. You may be able to a
 
 If wanting to surgically alter underbust, you can do a Costal cartilage reduction / rib osteotomies. Procedures like Ravitch Procedure were mostly invented for people with pectus excavatum (concave chest), and are quite rare to do for cosmetic reasons, and likely quite expensive.
 
-There is [some discussion of this on reddit](https://old.reddit.com/r/4tran4/comments/1ovhl9b/this_surgery_for_pectus_excavatum_could_possibly/){.source-link} but it's quite uncommon. The only person who seems to do it is Dr Leif Rogers.
+There is [some discussion of this on reddit](https://old.reddit.com/r/4tran4/comments/1ovhl9b/this_surgery_for_pectus_excavatum_could_possibly/){.source-link} but it's quite uncommon. The only person who seems to do it is Dr Leif Rogers. For reshaping middle ribs you can also go to Dr Raul Manzaneda in Perú.
 
 ### Shoulders
 
@@ -544,6 +544,12 @@ FFS can get quite expensive quite quickly, and there are some surgeons more repu
 
 Here is a non-exhaustive list of surgeons that are talked about sometimes. My research in this area is relatively non-exhastative so DYOR and maybe update this.
 
+#### Surgery order
+
+Before getting FFS, some surgeons reccomend extracting any wisdom teeth (see: [DB article on this](https://deschamps-braly.com/jaw-contouring-ffs-and-wisdom-teeth/){.source-link}), as should you have complications when older (typically in 30s) this could affect results after removal.
+
+If getting a tracheal shave, it can sometimes affect ability to get [VFS](#vocal-feminisation-surgery-vfs) in the future. It is worth discussing with both FFS and VFS surgeons about this. 
+
 #### FFS Surgeons
 
 Some famous ones are DB, Keojampa, Mardirossian, Harrison Lee. See [reddit discussion on their styles](https://old.reddit.com/r/Transgender_Surgeries/comments/1c6dw4j/comment/l018xdj/){.source-link}. In Europe, QQ seems to be the current meta, some are happy with FT but doesn't seem worth the cost. There are others also I guess. I probably should write a better list some time. 
@@ -596,7 +602,7 @@ See most [sections on upcycling supplements](#weight-gain-supplements) above.
 
 #### Stop and Go method
 
-Some people have considered stopping estrogen temporarily, then restarting is, as a method to try to "reduce estrogen sensitivity".
+Some people have considered stopping estrogen temporarily, then restarting is, as a method to try to "recalibrate estrogen sensitivity".
 
 This person tried it and it seemed to work for them: 
 
@@ -637,13 +643,13 @@ You can get an idea of how you are doing using the "Voice Tools" app (probably t
 - [VoiceTools iOS](https://apps.apple.com/us/app/voice-tools/id1447495900)
 
 
-### Vocal Feminisation Surgery
+### Vocal Feminisation Surgery (VFS)
 
 If wanting permanent results with less voice training, surgery is an option. Note that recovery can be quite difficult (eg: not speaking for 2 weeks - 2 months) and in general one retains more optionality/pitch if one trains. 
 
-In addition, one will sitll be required to do some amount of voice training even if you get surgery, otherwise your voice will sound somewhat unnatrual.
+In addition, one will still be required to do some amount of voice training even if you get surgery, otherwise your voice will sound somewhat unnatrual.
 
-From Reddit, it seems like [Yeson Voice Center](https://us.yesonvc.com/page/2_4_1.php) in South Korea is the best place to get it done.
+From people online, it seems like [Yeson Voice Center](https://us.yesonvc.com/page/2_4_1.php) in South Korea is the best place to get it done.
 
 Here is an overview of some of the main methods.
 
