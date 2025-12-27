@@ -542,7 +542,7 @@ Here is a relatively good starting guide to FFS:
 
 FFS can get quite expensive quite quickly, and there are some surgeons more reputable than others, but no obvious picks. It is difficult to find surgeons who are well known to be good, have reasonable waiting times, and have reasonably prices. One must trade off on some of these. It can also be difficult to compare, as it is much more custom for different people.
 
-Here is a non-exhaustive list of surgeons that are talked about sometimes. My research in this area is relatively non-exhastative so DYOR and maybe update this.
+Skin laxity may be an issue for a while. One will likely have some minor scarring but in pretty hidden places. One could use highly experimental [Verteporfin](/#verteporfin) treatment to attempt to reduce scarring maybe.
 
 #### Surgery order
 
@@ -551,6 +551,8 @@ Before getting FFS, some surgeons reccomend extracting any wisdom teeth (see: [D
 If getting a tracheal shave, it can sometimes affect ability to get [VFS](#vocal-feminisation-surgery-vfs) in the future. It is worth discussing with both FFS and VFS surgeons about this. 
 
 #### FFS Surgeons
+
+Here is a non-exhaustive list of surgeons that are talked about sometimes. My research in this area is relatively non-exhastative so DYOR and maybe update this.
 
 Some famous ones are DB, Keojampa, Mardirossian, Harrison Lee. See [reddit discussion on their styles](https://old.reddit.com/r/Transgender_Surgeries/comments/1c6dw4j/comment/l018xdj/){.source-link}. In Europe, QQ seems to be the current meta, some are happy with FT but doesn't seem worth the cost. There are others also I guess. I probably should write a better list some time. 
 
@@ -748,9 +750,11 @@ I have seen one report of someone injecting 6/3/3mg mix of tesmorelin/cjc1295/ip
 
 #### igf-1 DES
 
-Des(1-3)IGF-1 is a truncated form of insulin-like growth factor 1 (IGF-1) that has enhanced potency compared to IGF-1 due to its reduced binding to insulin-like growth factor-binding proteins. It is used in research and has potential therapeutic applications, particularly in growth-related conditions
+Des(1-3)IGF-1 is a truncated form of insulin-like growth factor 1 (IGF-1) that has enhanced potency compared to IGF-1 due to its reduced binding to insulin-like growth factor-binding proteins. It is used in research and has potential therapeutic applications, particularly in growth-related conditions. Some random quote from a person online.
 
 > I inject the igf-1 DES in the right breast area as the lymphatic system drains into the left side if I understand it correctly. The DES modification of igf-1 is very potent and activates all the growth receptors, including insulin receptors. The half life isn't very long, but the effect is noticable. About 0.05mL at a time, twice a day, from a 2mL of bacteriostatic water in a 1mg igf-1 DES vial.
+
+(DYOR here tbh)
 
 
 #### kisspeptin 
@@ -764,8 +768,6 @@ LH stimulates production of testosterone by testicles, so this would need to be 
 
 Example dosage:
 > 5mg/3ml 0.05 ml thrice a week (injections with insulin syringes with needles 8 mm into fat on thigh, buttock or arm, not abdomen)
-> * https://www.uk-peptides.com/kisspeptin-10-peptide
-> * https://www.uk-peptides.com/10ml-bacteriostatic-water
 >
 > reported side effect of kisspeptin:
 > - pain in abdomen (influence on intestine or colon).
@@ -781,6 +783,15 @@ If cut, there is potential research on avoiding scar tissue from forming.
 Unknown efficacy. Inhibits YAP/TAZ pathways. May be used to reduce scarring, but at the cost of increasing skin aging. There may one day exist other ways to induce TAP/TAZ (or downstream reduce cGAS–STING activation) that reduce sking aging.
 
 * Research post by u/darthemofan on u/estrogel: ["Hacking YAP/TAZ mechanosensor against skin aging (in the future)"](https://old.reddit.com/r/estrogel/comments/1bpj9o2/hacking_yaptaz_mechanosensor_against_skin_aging/){.source-link}
+
+There is some telegram community looking at it on [verteporfin.net](https://verteporfin.net/). In general it seems like it does have an effect, but various self-experimentations have given mixed results. Some notes:
+
+* Most published info comes only from animal studies. It's FDA approved but only for a different purpose ("for treating choroidal neovascularization"). Some few people have self-tests for scarring specifically.
+* You need to apply the verteporfin asap after injury, but approx within ~1 day seems maybe fine. Avoid light exposure after application.
+* Dose seems to matter a lot, current consensus is ~0.8mg/cm^2 being good, too little or too much seems bad.
+* Available form is Visudyne®, but there is a recipe using raw verteporfin, but the results using it were not great, but also they used a small dose. It's not water soluble so it's kinda tricky, and you would need a sonicator
+* For acne scars it seems too difficult to redo the scars.
+* Most tests use injectible form, but there are experimental papers on hydrogels also, maybe they work better who knows.
 
 ## Contributing
 
