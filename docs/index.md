@@ -63,7 +63,7 @@ If you are doing gamete storage, you may be able to get some limited feminizing 
 
 In terms of safety, the general wisdom is that: pharmaceutical grade > reputable home-brewer > personally home-brewing.
 
-However, if you have no other option, brewing at home from raws is possible. 
+However, if you have no other option, brewing at home from raws is possible.
 
 A good page for learning about this is this [Homebrewing Wiki Page](https://hrtcafe.net/Homebrew/){.source-link}. 
 
@@ -108,11 +108,14 @@ Here are some guides:
 - [Comparison of sources of GLP Drugs](https://www.finnrick.com/)
 - [Long post discussing GLP Drugs](https://www.cremieux.xyz/p/how-to-get-cheap-ozempic){.source-link}
 - [Sleep, Diet, Exercise and GLP-1 Drugs](https://thezvi.substack.com/p/sleep-diet-exercise-and-glp-1-drugs){.source-link}
+- [The bio-pirate's guide to GLP-1 agonists](https://www.lesswrong.com/posts/coLiSHpP338Xwibbp/the-bio-pirate-s-guide-to-glp-1-agonists#fnref-LYLQjJzcJtaBLesWp-6){.source-link}
 
 For some discussion on people's experiences, you can read online. Read for example:
 
 - [30 days on retatrutide](https://www.lesswrong.com/posts/mLvek6a9G86EnhJqH/30-days-of-retatrutide){.source-link}
 - [a 9-week trip on retatrutide](https://www.lesswrong.com/posts/J8nvbu5AFqR5ysSDR/a-9-week-trip-on-retatrutide){.source-link}
+
+If you decided to order, probably look on finnrick, and chose the more reputable chinese sellers with good lab results but sketchy websites where you order via whatsapp, as it is like 10x cheaper than non-china based resellers (typically costing like 10 vials for the same as 1 on other sites), though shipping will cost slightly more and take longer.
 
 #### Corset diet. 
 
@@ -776,7 +779,7 @@ Link to article about it:
 
 ### Avoiding scarring
 
-If cut, there is potential research on avoiding scar tissue from forming.
+If cut, there is potential research on avoiding scar tissue from forming. 
 
 #### Verteporfin
 
