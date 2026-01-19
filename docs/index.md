@@ -559,6 +559,29 @@ Here is a non-exhaustive list of surgeons that are talked about sometimes. My re
 
 Some famous ones are DB, Keojampa, Mardirossian, Harrison Lee. See [reddit discussion on their styles](https://old.reddit.com/r/Transgender_Surgeries/comments/1c6dw4j/comment/l018xdj/){.source-link}. In Europe, QQ seems to be the current meta, some are happy with FT but doesn't seem worth the cost. There are others also I guess. I probably should write a better list some time. 
 
+### Teeth
+
+Most things about teeth you likely already know. Brushing your teeth is good. Additionally, using fluoride containing toothpaste is quite beneficial. get checked at a dentis regularly while issues remain managable. You can whiten your teeth if they are too yellow. Some foods/drinks stain your teeth more than others. etc.
+
+Less common ideas:
+
+#### Non-cavity causing bacteria
+
+One main driver for tooth decay, is there there is a bacteria (S. mutans) that converts sugars (sucralose) into acids (lactic acid), and this disolves your teeth and makes them decay.
+
+It is possible, however, to get bacteria that instead convert sugar into alcohols instead. This is slightly less metabolically favourable, so they modify the bacteria to produce an antibiotic, to be resistant to that antibiotic, and to not spread with other bacteria the code for resistance to that antibiotic. It is in general quite effective based on anecdotal reports.
+
+There is some plausible risk that the alcohol in your mouth may cause increased cancer risk, but the baseline risk is quite low, ~5 in 100,000 incedence, ~1 in 100,000 mortality. It is unclear whether this bacteria increases cancer risk or by how much. As a upper-end estimate, we can see that heavy drinking causes ~5x mouth cancer risk compared to no drinking. The amount of alcohol produced by the bacteria would very little, but also it is quite concentrated in a single location. If you suffer from asian flush (ALDH2 deficiency), the risk is even more that you should probably not get it (again, risk is another 5-10x higher). It is not exclusive to asians, so you should test for the gene even if not before considering getting the bacteria.
+
+The product avaiable is [lumina probiotic](https://luminaprobiotic.com/products/lumina-probiotic-cosmetic-toothpaste?) which is only approved to be sold as a probiotic in the US. To apply it, you will need a standard dental cleaning from any dentist to make it easier for the lumina bacteria to colonise your terth. Here is some discussion about it online:
+
+- [Defying Cavity: Lantern Bioworks FAQ](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq){.source-link}
+- [Updates on Lumina Probiotic](https://www.astralcodexten.com/p/updates-on-lumina-probiotic){.source-link}
+- [Reconsider the anti-cavity bacteria if you are Asian](https://www.lesswrong.com/posts/jGu4nLgQYwfsoxddu/reconsider-the-anti-cavity-bacteria-if-you-are-asian){.source-link}
+- [Lumina Probiotic worked for me!](https://www.lesswrong.com/posts/w7Hcg8uWQMSdkNuQj/lumina-probiotic-worked-for-me){.source-link}
+
+
+
 ## Body Hair
 
 There are a few main methods of hair removal:
@@ -775,11 +798,31 @@ Example dosage:
 > reported side effect of kisspeptin:
 > - pain in abdomen (influence on intestine or colon).
 
-Link to article about it:
+
+#### GHK-Cu
+
+Helps get enough copper around the body, useful for good hair / skin / healing. May be worth supplementing Zn if you take this.
+
+Typical dose is like 1-2mg / day.
+
+#### tb 500
+
+Helps a bit with healing and reducing inflamation.
+
+Normal dose is like 700ug/day.
 
 ### Avoiding scarring
 
 If cut, there is potential research on avoiding scar tissue from forming. 
+
+However, once cut, it becomes more difficult. afaik, the only method is to make a new incision that removes the scar tissue, and to try to alter the circumstances such that scar tissue does not form again (eg: by closing the wound more cleanly, by getting donor skin grafts (eg: micro coring, Micro-compound tissue grafting (MCTG)), or perhaps by inhibiting the pathways that cause scar tissue formation.
+
+#### Inhibiting scar formation
+
+There are a few general peptides that some use for healing:
+- tb500
+- ghk-cu
+
 
 #### Verteporfin
 
