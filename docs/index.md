@@ -545,11 +545,16 @@ The face has some main parts, usually divided into something like this:
 - chin
 - jaw
 
-Here is a relatively good starting guide to FFS:
+You can get various of these parts changed to different degrees. 
 
-* [A comprehensive guide to FFS](https://stainedglasswoman.substack.com/p/face-first){.source-link}
+Here are some blogposts:
 
-FFS can get quite expensive quite quickly, and there are some surgeons more reputable than others, but no obvious picks. It is difficult to find surgeons who are well known to be good, have reasonable waiting times, and have reasonably prices. One must trade off on some of these. It can also be difficult to compare, as it is much more custom for different people.
+* Here is an excellent [review of FFS by boymoderology](https://boymoder.blog/thought?id=31){.source-link} which I think is the most thorough review of what you need to know about FFS things.
+* and here is [another guide to FFS](https://stainedglasswoman.substack.com/p/face-first){.source-link}
+
+FFS can get quite expensive quite quickly, and there are some surgeons more reputable than others, but no obvious picks that work for everyone. It is difficult to find surgeons who are well known to be good, have reasonable waiting times, and have reasonably prices. One must trade off on some of these. It can also be difficult to compare, as it is much more custom for different people, but people who spend a lot of time looking at surgeon results can often get good idea for taste.
+
+It is also quite regional. The best tier surgeons are in the US but cost ~100k USD, and sometimes offer orthadontic techniques that affect your midface more, while european surgeons usually are less expensive and less drastic. There are also surgeons in south america and in korea.
 
 Skin laxity may be an issue for a while. One will likely have some minor scarring but in pretty hidden places. One could use highly experimental [Verteporfin](/#verteporfin) treatment to attempt to reduce scarring maybe.
 
@@ -563,11 +568,11 @@ If getting a tracheal shave, it can sometimes affect ability to get [VFS](#vocal
 
 Here is a non-exhaustive list of surgeons that are talked about sometimes. My research in this area is relatively non-exhastative so DYOR and maybe update this.
 
-Some famous ones are DB, Keojampa, Mardirossian, Harrison Lee. See [reddit discussion on their styles](https://old.reddit.com/r/Transgender_Surgeries/comments/1c6dw4j/comment/l018xdj/){.source-link}. In Europe, QQ seems to be the current meta, some are happy with FT but doesn't seem worth the cost. There are others also I guess. I probably should write a better list some time. 
+Some famous ones are DB, Keojampa, Mardirossian, Harrison Lee. See [reddit discussion on their styles](https://old.reddit.com/r/Transgender_Surgeries/comments/1c6dw4j/comment/l018xdj/){.source-link}. In Europe, QQ seems to be the current meta, some are happy with FT but doesn't seem worth the cost. There are others also I guess. I probably should write a better list some time. There are asian surgeons but those are usually specialised to asian faces.
 
 ### Teeth
 
-Most things about teeth you likely already know. Brushing your teeth is good. Additionally, using fluoride containing toothpaste is quite beneficial. get checked at a dentis regularly while issues remain managable. You can whiten your teeth if they are too yellow. Some foods/drinks stain your teeth more than others. etc.
+Most things about teeth you likely already know. Brushing your teeth is good. Additionally, using fluoride containing toothpaste is quite beneficial, though you can get prescription high-fluoride toothpase that is better. get checked at a dentis regularly while issues remain managable. You can whiten your teeth if they are too yellow. Some foods/drinks stain your teeth more than others, and casein proteins can sometimes cancel this out. etc.
 
 Less common ideas:
 
