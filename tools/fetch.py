@@ -72,6 +72,80 @@ def reader_mode(html_content: str) -> str:
     body = BeautifulSoup(doc.summary(), "html.parser")
     return title_html + str(body)
 
+def is_twitter_url(url: str) -> bool:
+    """Check if URL is a Twitter/X link"""
+    parsed = urlparse(url)
+    return parsed.netloc in ('x.com', 'www.x.com', 'twitter.com', 'www.twitter.com', 'mobile.twitter.com')
+
+def clean_twitter_url(url: str) -> str:
+    """Strip tracking query params from Twitter/X URLs"""
+    parsed = urlparse(url)
+    return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+
+def archive_twitter(url: str) -> str:
+    """Archive Twitter/X post using fxtwitter API proxy"""
+    try:
+        parsed = urlparse(url)
+        # Convert x.com/user/status/123 -> api.fxtwitter.com/user/status/123
+        api_url = f"https://api.fxtwitter.com{parsed.path}"
+        headers = {"User-Agent": "Mozilla/5.0 (ArchiveBot/1.0)"}
+
+        response = requests.get(api_url, timeout=30, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+
+        tweet = data.get('tweet', {})
+        author = tweet.get('author', {})
+        text = tweet.get('text', '')
+        author_name = author.get('name', '')
+        screen_name = author.get('screen_name', '')
+        likes = tweet.get('likes', 0)
+        retweets = tweet.get('retweets', 0)
+        replies = tweet.get('replies', 0)
+        views = tweet.get('views', 0)
+        created_at = tweet.get('created_at', '')
+
+        # Build clean HTML
+        html_content = f'<h1>{html.escape(author_name)} (@{html.escape(screen_name)})</h1>\n'
+        html_content += f'<p class="tweet-meta">{html.escape(created_at)}</p>\n'
+
+        # Tweet text - preserve newlines
+        escaped_text = html.escape(text).replace('\n', '<br>\n')
+        html_content += f'<div class="tweet-text">{escaped_text}</div>\n'
+
+        # Media (photos and videos)
+        media = tweet.get('media', {})
+        all_media = media.get('all', [])
+        for item in all_media:
+            if item.get('type') == 'photo':
+                img_url = item.get('url', '')
+                html_content += f'<div class="tweet-media"><img src="{html.escape(img_url)}" alt="Tweet image"></div>\n'
+            elif item.get('type') == 'video' or item.get('type') == 'gif':
+                thumb = item.get('thumbnail_url', '')
+                html_content += f'<div class="tweet-media"><img src="{html.escape(thumb)}" alt="Tweet video thumbnail"><p><em>(Video - see original tweet)</em></p></div>\n'
+
+        # Engagement stats
+        html_content += f'<div class="tweet-stats">'
+        html_content += f'{replies:,} replies &bull; {retweets:,} reposts &bull; {likes:,} likes'
+        if views:
+            html_content += f' &bull; {views:,} views'
+        html_content += '</div>\n'
+
+        # Quote tweet if present
+        quote = tweet.get('quote')
+        if quote:
+            q_author = quote.get('author', {})
+            q_text = html.escape(quote.get('text', '')).replace('\n', '<br>\n')
+            html_content += f'<blockquote class="quote-tweet">'
+            html_content += f'<strong>{html.escape(q_author.get("name", ""))} (@{html.escape(q_author.get("screen_name", ""))})</strong><br>'
+            html_content += f'{q_text}</blockquote>\n'
+
+        return html_content
+
+    except Exception as e:
+        print(f"⚠ Twitter API proxy failed ({e}), returning minimal content...")
+        return f"<h1>Tweet</h1><p>Failed to fetch tweet content: {html.escape(str(e))}</p><p><a href='{html.escape(url)}'>View original tweet</a></p>"
+
 def is_reddit_url(url: str) -> bool:
     """Check if URL is a Reddit link"""
     parsed = urlparse(url)
@@ -427,8 +501,13 @@ def convert_ihsoyct_to_api_url(url: str) -> str:
 
 def archive(url: str, out_dir: pathlib.Path, force: bool):
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Clean Twitter URLs before slugging so filenames match the JS slug
+    if is_twitter_url(url):
+        url = clean_twitter_url(url)
+
     fname = out_dir / slug.slug(url)
-    
+
     # Check if this is a Reddit search tool and convert to API URL
     original_url = url
     if is_reddit_search_tool(url):
@@ -450,7 +529,42 @@ def archive(url: str, out_dir: pathlib.Path, force: bool):
     try:
         archive_date = datetime.datetime.now(datetime.timezone.utc)
         
-        if is_arctic_shift_api(url):
+        if is_twitter_url(original_url):
+            content = archive_twitter(original_url)
+            archive_style = """
+        <style>
+            body{font-family:system-ui,sans-serif;max-width:50rem;margin:2rem auto;line-height:1.6;padding:1rem}
+            img,iframe{max-width:100%}
+            .archive-header{background:#f0f8ff;border:1px solid #e0e0e0;border-radius:5px;padding:0.75rem;margin-bottom:1rem;font-size:0.9rem}
+            .archive-info{margin-bottom:0.5rem;color:#666}
+            .archive-source{color:#666}
+            .archive-header a{color:#007acc;text-decoration:none}
+            .archive-header a:hover{text-decoration:underline}
+            .tweet-text{font-size:1.15rem;line-height:1.7;margin:1rem 0;white-space:pre-wrap}
+            .tweet-meta{color:#666;font-size:0.9em}
+            .tweet-media{margin:1rem 0}
+            .tweet-media img{border-radius:12px;max-width:100%;display:block}
+            .tweet-stats{color:#666;font-size:0.9em;margin-top:1rem;padding-top:0.75rem;border-top:1px solid #e5e7eb}
+            .quote-tweet{border:1px solid #e5e7eb;border-radius:12px;padding:1rem;margin:1rem 0}
+            @media (prefers-color-scheme: dark) {
+                body{background:#0b0f14;color:#e6e6e6}
+                .archive-header{background:#1a1a2e;border-color:#333;color:#e0e0e0}
+                .archive-info, .archive-source{color:#ccc}
+                .archive-header a{color:#66b3ff}
+                .tweet-meta, .tweet-stats{color:#aaa}
+                .tweet-stats{border-top-color:#333}
+                .quote-tweet{border-color:#333}
+            }
+        </style>
+        """
+            final_content = (
+                "<meta charset='utf-8'>\n" +
+                "<base target='_blank'>\n" +
+                archive_style + "\n" +
+                generate_archive_header(original_url, archive_date) + "\n" +
+                content
+            )
+        elif is_arctic_shift_api(url):
             content = archive_arctic_shift_api(url)
             # Enhanced styling with archive header for HTML
             archive_style = """
