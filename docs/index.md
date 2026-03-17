@@ -392,6 +392,8 @@ See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_ri
 
 * Article: [Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/){.source-link}
 
+* @katkaldir on twitter: [before/after](https://x.com/catkaldir/status/2033642462447865889){.source-link} and [procedure description](https://x.com/catkaldir/status/2033873660323500489){.source-link}
+
 #### Rib removal surgery
 
 On vibes I do not reccomend this unless you really want it. You may be able to achieve a better shape, but your ribs exist to protect your vital organs, and removing them stops them from being able to do so. You also are likely to get significant scars on your torso. The shape you get is probably better than you would get from waist narrowing surgery.
