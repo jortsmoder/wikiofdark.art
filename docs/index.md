@@ -392,7 +392,11 @@ See [Reddit wiki](https://old.reddit.com/r/TransSurgeriesWiki/wiki/other#wiki_ri
 
 * Article: [Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/){.source-link}
 
-* @katkaldir on twitter: [before/after](https://x.com/catkaldir/status/2033642462447865889){.source-link} and [procedure description](https://x.com/catkaldir/status/2033873660323500489){.source-link}
+As of 2026 there does seem to be specific progress on this becoming better by surgeon Dr. Leif Rogers. He offers reshaping of ribs 5-12 by detaching rib 5 from the sternum and fracturing the ribs, and wearing a binder for 8-12 weeks, see this post by [@katkaldir on twitter](https://x.com/catkaldir/status/2033873660323500489){.source-link}, with plans to extend the surgery to rubs 2 & 3 also.
+
+* @katkaldir [before/after](https://x.com/catkaldir/status/2033642462447865889){.source-link}
+* @drleifrogers [instragram account](https://www.instagram.com/drleifrogers/)
+
 
 #### Rib removal surgery
 
